@@ -7,7 +7,7 @@ def downloadyoutubesrt(link):
     import subprocess
     subprocess.call(['youtube-dl',
                      # for sub
-                     '--sub-lang', 'en',
+                     '--sub-lang', 'pt',
                      '--write-sub',
                      '--convert-subs', 'srt',
                      # for filename

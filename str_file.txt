@@ -1,931 +1,1179 @@
-{'text': '[Music]', 'start': 0.0, 'duration': 13.0}
-{'text': 'welcome to Paul Chia and another edition', 'start': 10.049, 'duration': 6.131}
-{'text': 'of Hammond 8 News where we react to Ken', 'start': 13.0, 'duration': 5.58}
-{'text': "Ham reacting things if you're new to the", 'start': 16.18, 'duration': 2.849}
-{'text': 'channel', 'start': 18.58, 'duration': 2.07}
-{'text': 'take a second to tap on the subscribe', 'start': 19.029, 'duration': 3.421}
-{'text': "button so you'll be notified when new", 'start': 20.65, 'duration': 4.199}
-{'text': 'science theology and news videos come', 'start': 22.45, 'duration': 2.73}
-{'text': 'out', 'start': 24.849, 'duration': 1.921}
-{'text': 'alright international code of', 'start': 25.18, 'duration': 4.02}
-{'text': 'phylogenetic nomenclature or the Philo', 'start': 26.77, 'duration': 3.899}
-{'text': 'code wait a minute are they gonna try to', 'start': 29.2, 'duration': 3.72}
-{'text': "answer the phylogeny challenge and don't", 'start': 30.669, 'duration': 4.051}
-{'text': 'get your hopes up barn the closest', 'start': 32.92, 'duration': 3.54}
-{'text': "they've come is hiring someone new who", 'start': 34.72, 'duration': 4.14}
-{'text': 'can actually pronounce phylogeny no well', 'start': 36.46, 'duration': 3.93}
-{'text': "that's good because up to now they've", 'start': 38.86, 'duration': 3.36}
-{'text': 'been calling it Barrowman ology which', 'start': 40.39, 'duration': 3.18}
-{'text': 'was an attempt to answer the phylogeny', 'start': 42.22, 'duration': 3.39}
-{'text': 'challenge without calling it that they', 'start': 43.57, 'duration': 3.48}
-{'text': 'want to create this idea of an orchard', 'start': 45.61, 'duration': 3.72}
-{'text': 'of these separately created kinds when', 'start': 47.05, 'duration': 4.8}
-{'text': 'each of these genus obviously sit within', 'start': 49.33, 'duration': 4.14}
-{'text': 'you know the same family of these', 'start': 51.85, 'duration': 3.33}
-{'text': 'certain groups and all of these other', 'start': 53.47, 'duration': 3.66}
-{'text': 'families fall into two or three', 'start': 55.18, 'duration': 4.02}
-{'text': 'different orders as you will and the', 'start': 57.13, 'duration': 5.49}
-{'text': 'taxonomic tree still exists exactly as', 'start': 59.2, 'duration': 5.19}
-{'text': "it is and it's just that they can't", 'start': 62.62, 'duration': 3.42}
-{'text': "account for it well you're obviously the", 'start': 64.39, 'duration': 3.42}
-{'text': 'perfect person to talk about this but', 'start': 66.04, 'duration': 3.39}
-{'text': "before we move on in case someone's not", 'start': 67.81, 'duration': 3.24}
-{'text': 'familiar can you remind us what the', 'start': 69.43, 'duration': 3.57}
-{'text': 'phylogeny challenge is the phylogeny', 'start': 71.05, 'duration': 4.76}
-{'text': 'challenge in summary is to identify', 'start': 73.0, 'duration': 5.22}
-{'text': "created kinds that they're advocating", 'start': 75.81, 'duration': 5.74}
-{'text': 'for find two or three different species', 'start': 78.22, 'duration': 5.91}
-{'text': 'that scientists would consider closely', 'start': 81.55, 'duration': 5.31}
-{'text': 'related but that creationists say are', 'start': 84.13, 'duration': 4.14}
-{'text': "actually unrelated that they're", 'start': 86.86, 'duration': 3.869}
-{'text': 'specially created and of course nobody', 'start': 88.27, 'duration': 3.9}
-{'text': 'can do that because everything that you', 'start': 90.729, 'duration': 3.721}
-{'text': 'can find is obviously closely related', 'start': 92.17, 'duration': 4.08}
-{'text': "taxonomically and it's not just that", 'start': 94.45, 'duration': 3.75}
-{'text': 'what they call evolutionists determined', 'start': 96.25, 'duration': 4.619}
-{'text': 'that by their own admission creationists', 'start': 98.2, 'duration': 5.07}
-{'text': 'came up with this scheme realizing that', 'start': 100.869, 'duration': 4.051}
-{'text': 'these things are actually grouped this', 'start': 103.27, 'duration': 3.81}
-{'text': 'way and this type of branching tree', 'start': 104.92, 'duration': 4.35}
-{'text': 'pattern that carolus linnaeus identified', 'start': 107.08, 'duration': 5.85}
-{'text': 'does not fit with a creationist paradigm', 'start': 109.27, 'duration': 6.15}
-{'text': 'now Answers in Genesis lies about that', 'start': 112.93, 'duration': 4.14}
-{'text': 'they want you to believe something else', 'start': 115.42, 'duration': 3.629}
-{'text': 'but the fact is that carolus linnaeus', 'start': 117.07, 'duration': 4.11}
-{'text': 'himself as a creationist could not come', 'start': 119.049, 'duration': 3.75}
-{'text': 'up with an answer for this he did not', 'start': 121.18, 'duration': 3.689}
-{'text': 'think that speciation was possible he', 'start': 122.799, 'duration': 4.351}
-{'text': 'argued that new species could not come', 'start': 124.869, 'duration': 4.741}
-{'text': 'about except by special creation so how', 'start': 127.15, 'duration': 4.35}
-{'text': 'could this branching tree pattern exist', 'start': 129.61, 'duration': 4.049}
-{'text': 'upsets within sets within sets within', 'start': 131.5, 'duration': 4.139}
-{'text': 'sets when you go to every parent set', 'start': 133.659, 'duration': 3.72}
-{'text': "it's inclusive of more and more sense", 'start': 135.639, 'duration': 3.6}
-{'text': "and that's the branching tree pattern", 'start': 137.379, 'duration': 3.211}
-{'text': 'that he Illustrated that is', 'start': 139.239, 'duration': 3.541}
-{'text': "consistent with evolution but it doesn't", 'start': 140.59, 'duration': 5.07}
-{'text': 'fit with creationism at all and nor does', 'start': 142.78, 'duration': 4.65}
-{'text': 'it fit with Barrowman ology which is a', 'start': 145.66, 'duration': 3.54}
-{'text': 'completely artificial and arbitrary', 'start': 147.43, 'duration': 3.54}
-{'text': 'construct trying to conceal that fact', 'start': 149.2, 'duration': 4.289}
-{'text': "well let's see how they react with the", 'start': 150.97, 'duration': 4.68}
-{'text': 'actual scientists are doing all right', 'start': 153.489, 'duration': 4.021}
-{'text': 'international code of phylogenetic', 'start': 155.65, 'duration': 5.22}
-{'text': 'nomenclature or the Philo code so with a', 'start': 157.51, 'duration': 7.1}
-{'text': '300 can you wake me', 'start': 160.87, 'duration': 3.74}
-{'text': "he's not a scientist I'm so glad you", 'start': 165.66, 'duration': 6.639}
-{'text': 'pointed that out but it was about all', 'start': 168.76, 'duration': 5.25}
-{'text': 'close to 300 years ago when Carl', 'start': 172.299, 'duration': 3.72}
-{'text': 'Linnaeus first you know created our', 'start': 174.01, 'duration': 4.02}
-{'text': 'taxonomy system that we use today to', 'start': 176.019, 'duration': 4.171}
-{'text': 'classify animals according to their', 'start': 178.03, 'duration': 3.929}
-{'text': 'different kinds you know by kingdom', 'start': 180.19, 'duration': 3.329}
-{'text': 'phylum class order family genus species', 'start': 181.959, 'duration': 3.691}
-{'text': "except that there's no such thing as a", 'start': 183.519, 'duration': 4.5}
-{'text': "kind that's the phylogeny challenge", 'start': 185.65, 'duration': 4.35}
-{'text': "you're supposed to show what a kind is", 'start': 188.019, 'duration': 4.021}
-{'text': 'and how we tell one kind from another', 'start': 190.0, 'duration': 4.56}
-{'text': "kind and it can't be the way that the", 'start': 192.04, 'duration': 4.259}
-{'text': 'certain evangelicals have already said', 'start': 194.56, 'duration': 3.45}
-{'text': 'it that even a five-year-old can tell', 'start': 196.299, 'duration': 3.811}
-{'text': 'and even a five-year-old can tell that', 'start': 198.01, 'duration': 4.199}
-{'text': 'dogs and cats are more closely related', 'start': 200.11, 'duration': 4.26}
-{'text': 'and that sheep and goats are more', 'start': 202.209, 'duration': 4.051}
-{'text': 'closely related than either group is to', 'start': 204.37, 'duration': 3.81}
-{'text': 'each other even a five-year-old can tell', 'start': 206.26, 'duration': 4.44}
-{'text': "that so that doesn't work you have to", 'start': 208.18, 'duration': 5.399}
-{'text': "come up with an actual determinate I've", 'start': 210.7, 'duration': 4.14}
-{'text': 'known about this for some time that', 'start': 213.579, 'duration': 3.121}
-{'text': "they've really been upset so to speak", 'start': 214.84, 'duration': 3.479}
-{'text': 'about the Linnaeus system of', 'start': 216.7, 'duration': 3.0}
-{'text': "classification so that's what we", 'start': 218.319, 'duration': 2.7}
-{'text': 'typically use today when she was talking', 'start': 219.7, 'duration': 2.67}
-{'text': 'about kingdom phylum class where that', 'start': 221.019, 'duration': 3.511}
-{'text': 'was set up in the 1700s by Carl Linnaeus', 'start': 222.37, 'duration': 4.11}
-{'text': 'and he was a Christian and he was a', 'start': 224.53, 'duration': 4.41}
-{'text': 'creationist and his contemporaries', 'start': 226.48, 'duration': 4.47}
-{'text': 'actually would say you know God created', 'start': 228.94, 'duration': 4.29}
-{'text': 'Linnaeus organized and so he just says', 'start': 230.95, 'duration': 3.99}
-{'text': 'they do fall into groups you know you', 'start': 233.23, 'duration': 3.539}
-{'text': 'can any child can pick that out and see', 'start': 234.94, 'duration': 3.9}
-{'text': "that and understand that and so that's", 'start': 236.769, 'duration': 3.931}
-{'text': 'what he did through his naming but it', 'start': 238.84, 'duration': 3.63}
-{'text': "doesn't fit because because some of the", 'start': 240.7, 'duration': 3.81}
-{'text': "groupings though don't fit the proposed", 'start': 242.47, 'duration': 4.019}
-{'text': 'evolutionary relationship there are no', 'start': 244.51, 'duration': 5.22}
-{'text': 'groups that do not fit an evolutionary', 'start': 246.489, 'duration': 5.761}
-{'text': 'relationship the construct the carolus', 'start': 249.73, 'duration': 4.319}
-{'text': 'linnaeus came up with did not fit a', 'start': 252.25, 'duration': 3.87}
-{'text': "creationist concept that's why he was", 'start': 254.049, 'duration': 4.381}
-{'text': 'arguing that he could not distinguish', 'start': 256.12, 'duration': 4.859}
-{'text': 'man from ape he famously said that you', 'start': 258.43, 'duration': 4.2}
-{'text': 'know if I had said that you know man was', 'start': 260.979, 'duration': 3.571}
-{'text': 'a poor ape was man and that he would', 'start': 262.63, 'duration': 3.05}
-{'text': 'followed out of the ban of all', 'start': 264.55, 'duration': 3.48}
-{'text': 'ecclesiastics but david as a scientist', 'start': 265.68, 'duration': 4.63}
-{'text': 'he should have said that and in fact he', 'start': 268.03, 'duration': 5.19}
-{'text': 'did classify chimpanzees and orangutans', 'start': 270.31, 'duration': 6.54}
-{'text': 'as subsets of human homo troglodyte and', 'start': 273.22, 'duration': 4.14}
-{'text': 'hamona', 'start': 276.85, 'duration': 3.05}
-{'text': 'Turnus respectively carolus linnaeus', 'start': 277.36, 'duration': 5.07}
-{'text': "discovered something that didn't fit the", 'start': 279.9, 'duration': 5.8}
-{'text': 'creationist perspective this woman it is', 'start': 282.43, 'duration': 5.64}
-{'text': "being deliberately deceptive it's not", 'start': 285.7, 'duration': 5.07}
-{'text': "that we are upset at any damn thing it's", 'start': 288.07, 'duration': 4.98}
-{'text': 'not that we have to change it is that', 'start': 290.77, 'duration': 3.69}
-{'text': "they have to change it that's remember", 'start': 293.05, 'duration': 3.36}
-{'text': "that's why they invented Barrowman ology", 'start': 294.46, 'duration': 4.23}
-{'text': "what we're talking about is that people", 'start': 296.41, 'duration': 4.89}
-{'text': 'using their arbitrary methods that were', 'start': 298.69, 'duration': 5.01}
-{'text': 'their imperfect perceptions might decide', 'start': 301.3, 'duration': 5.79}
-{'text': 'that the Cougar and a cheetah are very', 'start': 303.7, 'duration': 4.53}
-{'text': 'different things because we have a', 'start': 307.09, 'duration': 3.27}
-{'text': 'tendency especially back in a century or', 'start': 308.23, 'duration': 4.23}
-{'text': 'two ago people had a tendency to look at', 'start': 310.36, 'duration': 3.96}
-{'text': 'the surface of something rather than the', 'start': 312.46, 'duration': 4.47}
-{'text': 'basis or the essence of that thing so', 'start': 314.32, 'duration': 3.69}
-{'text': 'they would look at a cheetah and', 'start': 316.93, 'duration': 3.33}
-{'text': 'identify that as being distinctly', 'start': 318.01, 'duration': 4.29}
-{'text': 'different than a cougar and so they', 'start': 320.26, 'duration': 3.45}
-{'text': 'would put them in different genus but', 'start': 322.3, 'duration': 3.27}
-{'text': 'then we get the genome back and we', 'start': 323.71, 'duration': 2.88}
-{'text': 'discover you know what you put a', 'start': 325.57, 'duration': 2.67}
-{'text': 'different genus name on the cheetah than', 'start': 326.59, 'duration': 2.91}
-{'text': 'we have on the Cougar but they are in', 'start': 328.24, 'duration': 2.88}
-{'text': 'fact genetically practically the same', 'start': 329.5, 'duration': 3.57}
-{'text': 'thing and now we also have fossils that', 'start': 331.12, 'duration': 3.69}
-{'text': "show that cheetahs we're in North", 'start': 333.07, 'duration': 3.6}
-{'text': 'America at one point so that they', 'start': 334.81, 'duration': 3.69}
-{'text': 'originated here and that they are in', 'start': 336.67, 'duration': 4.02}
-{'text': 'fact close cousins to Cougars now of', 'start': 338.5, 'duration': 3.99}
-{'text': 'course that supports evolution but then', 'start': 340.69, 'duration': 5.19}
-{'text': "that's the data from the genome a", 'start': 342.49, 'duration': 5.4}
-{'text': 'computer not just a child can see that', 'start': 345.88, 'duration': 3.78}
-{'text': 'but a computer can see that a computer', 'start': 347.89, 'duration': 3.69}
-{'text': "doesn't have to have any human biases or", 'start': 349.66, 'duration': 4.11}
-{'text': 'assumptions the computer identifies that', 'start': 351.58, 'duration': 4.5}
-{'text': 'cheetahs and cougars are essentially the', 'start': 353.77, 'duration': 3.57}
-{'text': 'same thing that they should be in the', 'start': 356.08, 'duration': 3.3}
-{'text': 'same genus and that we should you know', 'start': 357.34, 'duration': 3.54}
-{'text': 'develop a construct that reflects that', 'start': 359.38, 'duration': 3.06}
-{'text': "because that's the truth of it and that", 'start': 360.88, 'duration': 3.96}
-{'text': 'we should honor that why does Georgia', 'start': 362.44, 'duration': 4.979}
-{'text': 'say that current biologists are upset', 'start': 364.84, 'duration': 4.14}
-{'text': 'with Carl Linnaeus why would she use', 'start': 367.419, 'duration': 3.961}
-{'text': 'that phrase creationists like to project', 'start': 368.98, 'duration': 4.53}
-{'text': 'their own faults onto those who will not', 'start': 371.38, 'duration': 5.25}
-{'text': 'share them so when she has a problem she', 'start': 373.51, 'duration': 5.34}
-{'text': 'wants to accuse us of having the problem', 'start': 376.63, 'duration': 3.72}
-{'text': "that she has even though we don't have", 'start': 378.85, 'duration': 3.3}
-{'text': "that problem it's a condition that I", 'start': 380.35, 'duration': 3.569}
-{'text': 'call the pot calling the silverware', 'start': 382.15, 'duration': 4.92}
-{'text': 'black and and this troop does that quite', 'start': 383.919, 'duration': 5.641}
-{'text': 'a bit the guy in blue who gets bored', 'start': 387.07, 'duration': 4.71}
-{'text': 'when he hears reality he does that quite', 'start': 389.56, 'duration': 4.92}
-{'text': 'a bit but fair to say that biologists', 'start': 391.78, 'duration': 4.53}
-{'text': 'are attempting to improve a process', 'start': 394.48, 'duration': 3.9}
-{'text': "they're not angry at a process exactly", 'start': 396.31, 'duration': 3.57}
-{'text': "if it doesn't work if it needs", 'start': 398.38, 'duration': 3.3}
-{'text': 'improvements then we have to fix it and', 'start': 399.88, 'duration': 3.51}
-{'text': "it's that's not what they do they don't", 'start': 401.68, 'duration': 3.84}
-{'text': 'want a more accurate system because they', 'start': 403.39, 'duration': 3.81}
-{'text': 'know what accuracy means', 'start': 405.52, 'duration': 3.21}
-{'text': 'it means supporting the evolutionary', 'start': 407.2, 'duration': 3.42}
-{'text': "position and so that's where evolution", 'start': 408.73, 'duration': 3.39}
-{'text': 'is struggle with that because well this', 'start': 410.62, 'duration': 3.03}
-{'text': "doesn't really reflect like their", 'start': 412.12, 'duration': 3.3}
-{'text': 'reality creationist had to invent', 'start': 413.65, 'duration': 3.03}
-{'text': 'Barrowman ology and a number of', 'start': 415.42, 'duration': 3.27}
-{'text': 'apologetics I mean the apologetics', 'start': 416.68, 'duration': 4.59}
-{'text': "exists because reality doesn't accept", 'start': 418.69, 'duration': 5.13}
-{'text': 'their alternate reality so they have to', 'start': 421.27, 'duration': 3.96}
-{'text': 'come up with alternate facts which are', 'start': 423.82, 'duration': 6.12}
-{'text': 'also known as lies their reality and so', 'start': 425.23, 'duration': 6.72}
-{'text': "we need to change it and so they've come", 'start': 429.94, 'duration': 3.66}
-{'text': "up with a new way to do that now they're", 'start': 431.95, 'duration': 2.85}
-{'text': "not saying they're gonna change the", 'start': 433.6, 'duration': 3.21}
-{'text': 'genus and species names of the organisms', 'start': 434.8, 'duration': 3.69}
-{'text': "that's the binomial nomenclature they", 'start': 436.81, 'duration': 3.9}
-{'text': 'actually are changing the D genus and', 'start': 438.49, 'duration': 3.96}
-{'text': "species name go at least they're", 'start': 440.71, 'duration': 3.27}
-{'text': 'wandering away from binomial', 'start': 442.45, 'duration': 3.39}
-{'text': 'nomenclature and that is because we', 'start': 443.98, 'duration': 3.93}
-{'text': 'understand that evolution happens and so', 'start': 445.84, 'duration': 4.05}
-{'text': 'that when you have Canis lupus for', 'start': 447.91, 'duration': 3.42}
-{'text': "example if what it's Canis lupus", 'start': 449.89, 'duration': 3.51}
-{'text': "familiaris because that's already a", 'start': 451.33, 'duration': 3.57}
-{'text': 'trinomial but then what happens when you', 'start': 453.4, 'duration': 3.81}
-{'text': 'go further when a new breed becomes its', 'start': 454.9, 'duration': 4.56}
-{'text': 'own species or subspecies classification', 'start': 457.21, 'duration': 3.99}
-{'text': "that it warrants another name so there's", 'start': 459.46, 'duration': 4.62}
-{'text': 'a Canis lupus familiaris dachshund we', 'start': 461.2, 'duration': 4.56}
-{'text': 'have to come up with some consideration', 'start': 464.08, 'duration': 4.02}
-{'text': 'for the how do we do this accurately we', 'start': 465.76, 'duration': 4.38}
-{'text': "can't adhere to the binomial", 'start': 468.1, 'duration': 3.72}
-{'text': "nomenclature when it doesn't work", 'start': 470.14, 'duration': 3.93}
-{'text': 'anymore or when it no longer informative', 'start': 471.82, 'duration': 4.5}
-{'text': "and just because it's traditional it", 'start': 474.07, 'duration': 4.83}
-{'text': "doesn't you'll be using it they're not", 'start': 476.32, 'duration': 3.45}
-{'text': "gonna change that but they're gonna", 'start': 478.9, 'duration': 2.43}
-{'text': 'change sort of the higher or the higher', 'start': 479.77, 'duration': 3.3}
-{'text': "order ones and how they're all organized", 'start': 481.33, 'duration': 3.92}
-{'text': "and they're actually gonna organize them", 'start': 483.07, 'duration': 5.25}
-{'text': 'according to claims and clade as', 'start': 485.25, 'duration': 4.75}
-{'text': 'supposedly all the organisms come from a', 'start': 488.32, 'duration': 4.11}
-{'text': "common ancestor within a clade so that's", 'start': 490.0, 'duration': 3.93}
-{'text': 'how they want to organize it so what do', 'start': 492.43, 'duration': 3.87}
-{'text': 'you think about this Bryan if you me', 'start': 493.93, 'duration': 4.2}
-{'text': "back up no I just why don't you just", 'start': 496.3, 'duration': 4.2}
-{'text': 'give that guy a ball and go send him', 'start': 498.13, 'duration': 4.47}
-{'text': 'into a corner to maybe even bounce it', 'start': 500.5, 'duration': 5.37}
-{'text': "why the hell is he even on camera he's", 'start': 502.6, 'duration': 5.1}
-{'text': "got the pretty smile he's in charge of", 'start': 505.87, 'duration': 3.6}
-{'text': 'their home school curriculum if you can', 'start': 507.7, 'duration': 4.41}
-{'text': 'oh my word what kind of a justice is', 'start': 509.47, 'duration': 5.04}
-{'text': 'that a guy who falls asleep whatever he', 'start': 512.11, 'duration': 4.8}
-{'text': 'hears information was that a reasonable', 'start': 514.51, 'duration': 4.41}
-{'text': 'definition of clayed that georgia gave', 'start': 516.91, 'duration': 3.689}
-{'text': "there yeah I mean it's a clade is", 'start': 518.92, 'duration': 4.05}
-{'text': 'inclusive of all of the subsets of that', 'start': 520.599, 'duration': 4.321}
-{'text': 'for example that one that people have', 'start': 522.97, 'duration': 4.35}
-{'text': 'trouble with the word tetrapod tetrapod', 'start': 524.92, 'duration': 5.67}
-{'text': 'is a organism that has four legs and is', 'start': 527.32, 'duration': 5.34}
-{'text': 'adapted for life skeletally adapted for', 'start': 530.59, 'duration': 4.14}
-{'text': 'life on land okay', 'start': 532.66, 'duration': 3.9}
-{'text': 'so we have all these organisms that', 'start': 534.73, 'duration': 2.91}
-{'text': 'crawled out a little', 'start': 536.56, 'duration': 3.09}
-{'text': 'and they have four legs now except that', 'start': 537.64, 'duration': 4.68}
-{'text': 'now we also have snakes and whales are', 'start': 539.65, 'duration': 4.2}
-{'text': "two famous examples where they've lost", 'start': 542.32, 'duration': 4.17}
-{'text': 'two or more of their limbs for whatever', 'start': 543.85, 'duration': 4.08}
-{'text': "reason but they're still classified as", 'start': 546.49, 'duration': 3.48}
-{'text': 'tetrapods for the same reason you know', 'start': 547.93, 'duration': 3.6}
-{'text': 'we have certain criteria for what is a', 'start': 549.97, 'duration': 3.42}
-{'text': 'human right you know that brain size C', 'start': 551.53, 'duration': 4.35}
-{'text': "C's limbs fingers you know we have the", 'start': 553.39, 'duration': 4.08}
-{'text': 'typical character traits but if a person', 'start': 555.88, 'duration': 5.01}
-{'text': 'is born that is missing arms or legs or', 'start': 557.47, 'duration': 5.7}
-{'text': "has it has a sub sized brain we don't", 'start': 560.89, 'duration': 4.95}
-{'text': "say that they're not human because if", 'start': 563.17, 'duration': 4.05}
-{'text': "you're born to humans and you're you're", 'start': 565.84, 'duration': 2.76}
-{'text': "human it doesn't matter that you you", 'start': 567.22, 'duration': 3.3}
-{'text': 'have a different set of characteristics', 'start': 568.6, 'duration': 2.91}
-{'text': "or that you don't meet those", 'start': 570.52, 'duration': 2.46}
-{'text': "requirements anymore because it's not", 'start': 571.51, 'duration': 3.66}
-{'text': "character based it's based on your", 'start': 572.98, 'duration': 4.92}
-{'text': 'phylogeny is based on your ancestry so', 'start': 575.17, 'duration': 4.98}
-{'text': 'the children of humans are always going', 'start': 577.9, 'duration': 4.35}
-{'text': 'to be human even if we evolve into two', 'start': 580.15, 'duration': 4.14}
-{'text': 'different sets if it was that we were to', 'start': 582.25, 'duration': 4.17}
-{'text': 'say a colony moves off to Mars and', 'start': 584.29, 'duration': 3.36}
-{'text': "they're no longer physically", 'start': 586.42, 'duration': 3.15}
-{'text': 'interbreeding with us very quickly that', 'start': 587.65, 'duration': 4.2}
-{'text': 'small population would become distinctly', 'start': 589.57, 'duration': 4.41}
-{'text': 'different if over enough generations', 'start': 591.85, 'duration': 3.63}
-{'text': 'they would no longer be chemically inter', 'start': 593.98, 'duration': 3.18}
-{'text': 'fertile with us if they were isolated', 'start': 595.48, 'duration': 3.09}
-{'text': 'and then we would have two different', 'start': 597.16, 'duration': 3.9}
-{'text': "species both of them human but it's just", 'start': 598.57, 'duration': 3.9}
-{'text': 'because one of them is different than', 'start': 601.06, 'duration': 2.52}
-{'text': "the other doesn't mean that they're not", 'start': 602.47, 'duration': 2.85}
-{'text': 'human anymore so she actually gave a', 'start': 603.58, 'duration': 3.15}
-{'text': "good definition that's surprising", 'start': 605.32, 'duration': 4.32}
-{'text': "unwittingly yes I don't fault them for", 'start': 606.73, 'duration': 4.32}
-{'text': 'doing that but what we would say is they', 'start': 609.64, 'duration': 2.94}
-{'text': 'have the wrong foundation right the', 'start': 611.05, 'duration': 3.09}
-{'text': "wrong history of the universe' gives in", 'start': 612.58, 'duration': 3.03}
-{'text': "the wrong conclusion and it's so sad to", 'start': 614.14, 'duration': 3.66}
-{'text': "me he doesn't fault us for doing the", 'start': 615.61, 'duration': 4.68}
-{'text': 'very thing that he himself is doing but', 'start': 617.8, 'duration': 4.77}
-{'text': 'that we are not doing these are not', 'start': 620.29, 'duration': 4.08}
-{'text': 'assumptions we do not assume that', 'start': 622.57, 'duration': 3.81}
-{'text': 'evolution is happening we know that', 'start': 624.37, 'duration': 4.02}
-{'text': 'evolution is happening and people have', 'start': 626.38, 'duration': 3.66}
-{'text': "tried to explain how that's happening", 'start': 628.39, 'duration': 3.3}
-{'text': 'how did we manage to derive all these', 'start': 630.04, 'duration': 3.39}
-{'text': "different breeds of cattle that didn't", 'start': 631.69, 'duration': 3.18}
-{'text': 'exist in the wild when all we had', 'start': 633.43, 'duration': 3.48}
-{'text': 'originally was our ox how did we breed', 'start': 634.87, 'duration': 3.69}
-{'text': 'all of these different types of dogs', 'start': 636.91, 'duration': 4.08}
-{'text': 'when originally all we had was Asiatic', 'start': 638.56, 'duration': 4.23}
-{'text': 'wolves how did we breed all of these', 'start': 640.99, 'duration': 3.45}
-{'text': 'different types of pigeons when we had', 'start': 642.79, 'duration': 3.93}
-{'text': 'one original stock how did all of these', 'start': 644.44, 'duration': 4.77}
-{'text': 'different varieties come from one common', 'start': 646.72, 'duration': 4.05}
-{'text': "ancestor so we know that that's", 'start': 649.21, 'duration': 2.94}
-{'text': "happening there's nobody questioning", 'start': 650.77, 'duration': 3.54}
-{'text': "that that's not an assumption that's", 'start': 652.15, 'duration': 5.07}
-{'text': "known that that's a fact so then people", 'start': 654.31, 'duration': 4.86}
-{'text': 'like Lamar comes along and he says maybe', 'start': 657.22, 'duration': 3.51}
-{'text': "this is what's happening and then we", 'start': 659.17, 'duration': 3.18}
-{'text': "test Lamarck's theory we said well you", 'start': 660.73, 'duration': 3.66}
-{'text': 'know what it has some credence maybe in', 'start': 662.35, 'duration': 4.86}
-{'text': "some perspective but that's essentially", 'start': 664.39, 'duration': 5.13}
-{'text': "not what's going on here so Lamarckism", 'start': 667.21, 'duration': 4.23}
-{'text': 'is pushed aside that does', 'start': 669.52, 'duration': 3.84}
-{'text': "not account for what's really happening", 'start': 671.44, 'duration': 4.23}
-{'text': "that explanation doesn't work and then", 'start': 673.36, 'duration': 3.66}
-{'text': 'Darwin comes along and he says well', 'start': 675.67, 'duration': 2.73}
-{'text': "maybe this is what's happening so we", 'start': 677.02, 'duration': 3.0}
-{'text': 'test that anyway you know what that', 'start': 678.4, 'duration': 3.69}
-{'text': "works that actually is what's happening", 'start': 680.02, 'duration': 3.78}
-{'text': 'and then other people come in later like', 'start': 682.09, 'duration': 4.05}
-{'text': 'when Gregor Mendel comes in we he comes', 'start': 683.8, 'duration': 3.96}
-{'text': 'up with genetics and now genetics adds', 'start': 686.14, 'duration': 3.48}
-{'text': 'to that explanation and then we discover', 'start': 687.76, 'duration': 3.18}
-{'text': 'mutations and that adds to that', 'start': 689.62, 'duration': 3.69}
-{'text': 'explanation too and so all subsequent', 'start': 690.94, 'duration': 4.32}
-{'text': 'research all compiles and shows that', 'start': 693.31, 'duration': 3.96}
-{'text': "Darwin's theory is actually the working", 'start': 695.26, 'duration': 3.51}
-{'text': 'theory and if these are not assumptions', 'start': 697.27, 'duration': 3.42}
-{'text': 'these are tried and true tested and', 'start': 698.77, 'duration': 3.84}
-{'text': 'proven over and over and over and over', 'start': 700.69, 'duration': 4.11}
-{'text': 'again so we know that this happens and', 'start': 702.61, 'duration': 4.83}
-{'text': "the guy who's in charge of Education who", 'start': 704.8, 'duration': 5.04}
-{'text': 'desperately needs an education has no', 'start': 707.44, 'duration': 5.07}
-{'text': "idea how much he doesn't know he doesn't", 'start': 709.84, 'duration': 4.23}
-{'text': "know what he doesn't know and the", 'start': 712.51, 'duration': 3.27}
-{'text': "problem is he won't know because", 'start': 714.07, 'duration': 4.38}
-{'text': 'remember ignorin s-- right ignore is an', 'start': 715.78, 'duration': 3.93}
-{'text': 'important part of the word ignorant', 'start': 718.45, 'duration': 3.3}
-{'text': "ignorance isn't just what you don't know", 'start': 719.71, 'duration': 3.87}
-{'text': "it's also what you won't know because", 'start': 721.75, 'duration': 3.18}
-{'text': 'you got some brilliant people who are', 'start': 723.58, 'duration': 3.54}
-{'text': 'very smart to particular areas wasting', 'start': 724.93, 'duration': 3.81}
-{'text': 'really in a sense their time their', 'start': 727.12, 'duration': 3.09}
-{'text': 'efforts and their resources to try to', 'start': 728.74, 'duration': 2.67}
-{'text': "prove I'm at the mythological history", 'start': 730.21, 'duration': 1.95}
-{'text': 'that never took place', 'start': 731.41, 'duration': 3.84}
-{'text': "excuse me that's your job that's what", 'start': 732.16, 'duration': 6.27}
-{'text': "you're doing you're an apologist you are", 'start': 735.25, 'duration': 5.1}
-{'text': 'accusing us of doing the thing that', 'start': 738.43, 'duration': 3.72}
-{'text': "you're doing but that we are not doing", 'start': 740.35, 'duration': 4.29}
-{'text': 'we have made huge advances in geology', 'start': 742.15, 'duration': 5.24}
-{'text': 'and toxicology and and in medicine', 'start': 744.64, 'duration': 4.86}
-{'text': 'understanding evolution has given us', 'start': 747.39, 'duration': 5.29}
-{'text': 'huge boons and saved billions of lives', 'start': 749.5, 'duration': 5.16}
-{'text': 'in understanding how evolutionary', 'start': 752.68, 'duration': 4.74}
-{'text': 'processes work what have we gained from', 'start': 754.66, 'duration': 4.86}
-{'text': "pretending yes pretending because that's", 'start': 757.42, 'duration': 3.93}
-{'text': 'all you can do that things were created', 'start': 759.52, 'duration': 4.38}
-{'text': "there's no value there there's no such", 'start': 761.35, 'duration': 4.83}
-{'text': "thing as creation nobody's ever created", 'start': 763.9, 'duration': 4.47}
-{'text': "anything we've watched evolution happen", 'start': 766.18, 'duration': 3.66}
-{'text': "in the lab we've manipulated it", 'start': 768.37, 'duration': 3.57}
-{'text': 'throughout the entire history of', 'start': 769.84, 'duration': 4.59}
-{'text': "Agriculture there's an enormous benefit", 'start': 771.94, 'duration': 5.399}
-{'text': 'to that but there is no benefit at all', 'start': 774.43, 'duration': 4.98}
-{'text': 'to lying to people to say that evolution', 'start': 777.339, 'duration': 3.781}
-{'text': "doesn't happen and that your magic", 'start': 779.41, 'duration': 3.27}
-{'text': 'imaginary-friend proof things out of', 'start': 781.12, 'duration': 3.78}
-{'text': 'nothing with magic words abracadabra I', 'start': 782.68, 'duration': 4.17}
-{'text': "create as I speak that's where this guys", 'start': 784.9, 'duration': 3.33}
-{'text': 'coming from you know where the odds only', 'start': 786.85, 'duration': 3.18}
-{'text': 'benefit comes from that that Answers in', 'start': 788.23, 'duration': 3.3}
-{'text': 'Genesis makes something on the order of', 'start': 790.03, 'duration': 3.99}
-{'text': '20 million dollars a year by bilking', 'start': 791.53, 'duration': 4.11}
-{'text': 'people to have much more money than they', 'start': 794.02, 'duration': 3.24}
-{'text': "have cents that's where that comes from", 'start': 795.64, 'duration': 3.27}
-{'text': 'stop promoting myths', 'start': 797.26, 'duration': 3.51}
-{'text': "says the man who's literally sitting in", 'start': 798.91, 'duration': 3.57}
-{'text': 'front of a magic boat and a talking', 'start': 800.77, 'duration': 3.84}
-{'text': 'snake which is why they actually say in', 'start': 802.48, 'duration': 2.7}
-{'text': 'the article', 'start': 804.61, 'duration': 2.07}
-{'text': 'why do we keep trying to put what we', 'start': 805.18, 'duration': 3.03}
-{'text': 'know about evolution in a system that', 'start': 806.68, 'duration': 4.65}
-{'text': "wasn't built to reflected well because", 'start': 808.21, 'duration': 4.74}
-{'text': "evolution won't fit into a system that", 'start': 811.33, 'duration': 3.39}
-{'text': "was designed to reflect God's creation", 'start': 812.95, 'duration': 3.87}
-{'text': "it wasn't designed to reflect God's", 'start': 814.72, 'duration': 4.14}
-{'text': 'creation it was thought that it would', 'start': 816.82, 'duration': 4.41}
-{'text': 'carolus linnaeus created the concept of', 'start': 818.86, 'duration': 4.38}
-{'text': 'taxonomy he thinking that he was going', 'start': 821.23, 'duration': 4.8}
-{'text': "to identify created Kant's in a sense he", 'start': 823.24, 'duration': 4.74}
-{'text': 'was taking the phylogeny challenge but', 'start': 826.03, 'duration': 4.44}
-{'text': 'what he found instead did not reflect', 'start': 827.98, 'duration': 4.77}
-{'text': 'created cons the fact that he could not', 'start': 830.47, 'duration': 4.14}
-{'text': 'distinguish humans from apes that they', 'start': 832.75, 'duration': 4.47}
-{'text': 'were in his mind the same thing that', 'start': 834.61, 'duration': 4.4}
-{'text': 'biologically they are the same thing', 'start': 837.22, 'duration': 3.66}
-{'text': 'indistinguishable from each other does', 'start': 839.01, 'duration': 4.12}
-{'text': 'not fit creation so he was the one who', 'start': 840.88, 'duration': 4.5}
-{'text': 'originated the phylogeny challenge he', 'start': 843.13, 'duration': 4.41}
-{'text': 'came up with a quandary he could not', 'start': 845.38, 'duration': 4.17}
-{'text': 'answer because he was a pre Darwinian', 'start': 847.54, 'duration': 3.42}
-{'text': 'creationist and we had to wait another', 'start': 849.55, 'duration': 3.6}
-{'text': 'century for Darwin to come along to', 'start': 850.96, 'duration': 3.96}
-{'text': 'answer the dilemma that Linnaeus had', 'start': 853.15, 'duration': 4.14}
-{'text': "discovered so since I don't think", 'start': 854.92, 'duration': 3.81}
-{'text': "they're gonna get to it and go over it", 'start': 857.29, 'duration': 3.3}
-{'text': 'what are some of the shortcomings in the', 'start': 858.73, 'duration': 4.65}
-{'text': 'Linnaean system that requires that', 'start': 860.59, 'duration': 4.38}
-{'text': 'necessitates kind of a shift to this', 'start': 863.38, 'duration': 4.05}
-{'text': 'Philo code system well because Linnaean', 'start': 864.97, 'duration': 4.83}
-{'text': 'taxonomy has made a number of mistakes', 'start': 867.43, 'duration': 4.71}
-{'text': 'in the way that it is constructed some', 'start': 869.8, 'duration': 3.69}
-{'text': 'things and as I said you know like with', 'start': 872.14, 'duration': 2.58}
-{'text': 'the example of the cheetah and the', 'start': 873.49, 'duration': 3.12}
-{'text': "Cougar there's actually several there's", 'start': 874.72, 'duration': 4.47}
-{'text': 'only so much that you can do classifying', 'start': 876.61, 'duration': 4.41}
-{'text': 'organisms by their morphology on', 'start': 879.19, 'duration': 3.93}
-{'text': "occasion you'll have where a morphology", 'start': 881.02, 'duration': 4.14}
-{'text': 'implies that maybe these two are more', 'start': 883.12, 'duration': 3.51}
-{'text': 'closely related than these other ones', 'start': 885.16, 'duration': 3.24}
-{'text': 'but the thing that that does it that', 'start': 886.63, 'duration': 4.35}
-{'text': 'makes phylogenetics twin nested is that', 'start': 888.4, 'duration': 4.65}
-{'text': "it's based initially in in morphology", 'start': 890.98, 'duration': 4.53}
-{'text': "and then it's also backed by embryology", 'start': 893.05, 'duration': 4.02}
-{'text': 'because you embryology provides its', 'start': 895.51, 'duration': 3.69}
-{'text': 'whole nother overlapping scheme where', 'start': 897.07, 'duration': 4.11}
-{'text': 'you can chart embryology to match the', 'start': 899.2, 'duration': 4.98}
-{'text': 'same tree very rarely very rarely we you', 'start': 901.18, 'duration': 4.95}
-{'text': 'get at a difference where the embryology', 'start': 904.18, 'duration': 3.75}
-{'text': "doesn't match and that's that implicitly", 'start': 906.13, 'duration': 3.15}
-{'text': 'means you need to go to something that', 'start': 907.93, 'duration': 3.33}
-{'text': 'is more hard coded something that will', 'start': 909.28, 'duration': 3.75}
-{'text': "prove the point and that's where you get", 'start': 911.26, 'duration': 4.02}
-{'text': 'into genetics so when you use the you', 'start': 913.03, 'duration': 4.71}
-{'text': 'know genome comparisons if you find an', 'start': 915.28, 'duration': 4.53}
-{'text': 'ortholog and this is how we verified', 'start': 917.74, 'duration': 3.93}
-{'text': 'that like for example it was determined', 'start': 919.81, 'duration': 4.2}
-{'text': 'that aardvarks and anteaters and', 'start': 921.67, 'duration': 4.05}
-{'text': 'pangolins because they were all', 'start': 924.01, 'duration': 4.5}
-{'text': 'toothless and they all eat ants so this', 'start': 925.72, 'duration': 4.2}
-{'text': 'must have been the commonality that they', 'start': 928.51, 'duration': 3.12}
-{'text': 'had a common ancestor who lost their', 'start': 929.92, 'duration': 3.51}
-{'text': 'teeth and had to eat ants as a necessity', 'start': 931.63, 'duration': 4.41}
-{'text': 'and so they developed into aardvarks and', 'start': 933.43, 'duration': 4.56}
-{'text': 'had eaters and penguins a reasonably', 'start': 936.04, 'duration': 3.09}
-{'text': 'fair assessment except', 'start': 937.99, 'duration': 3.12}
-{'text': 'for the fact that pangolins are way more', 'start': 939.13, 'duration': 4.02}
-{'text': 'primal than that but when they get the', 'start': 941.11, 'duration': 3.42}
-{'text': 'genome back they discover that these are', 'start': 943.15, 'duration': 3.05}
-{'text': 'three different groups that just', 'start': 944.53, 'duration': 4.77}
-{'text': 'coincidentally convergently lost their', 'start': 946.2, 'duration': 4.6}
-{'text': 'teeth and had to eat ants their', 'start': 949.3, 'duration': 3.15}
-{'text': 'biological relationship is that', 'start': 950.8, 'duration': 3.69}
-{'text': "aardvarks are afrotheria pnes they're", 'start': 952.45, 'duration': 3.3}
-{'text': 'actually more closely related to', 'start': 954.49, 'duration': 3.42}
-{'text': 'elephants but then they are too ant', 'start': 955.75, 'duration': 4.83}
-{'text': 'eaters and likewise the pangolins', 'start': 957.91, 'duration': 4.92}
-{'text': 'strangely turned out to be more closely', 'start': 960.58, 'duration': 4.92}
-{'text': 'related to carnivores than to ant eaters', 'start': 962.83, 'duration': 4.92}
-{'text': 'and anteaters ours in our thorns which', 'start': 965.5, 'duration': 4.41}
-{'text': 'are a South American derivative so the', 'start': 967.75, 'duration': 4.08}
-{'text': 'early mammals branched into into two', 'start': 969.91, 'duration': 3.3}
-{'text': 'directions and then each of those two', 'start': 971.83, 'duration': 3.27}
-{'text': 'branches branched into two more we can', 'start': 973.21, 'duration': 3.42}
-{'text': 'verify this through the genome these are', 'start': 975.1, 'duration': 4.38}
-{'text': 'not assumptions these are verified fact', 'start': 976.63, 'duration': 3.69}
-{'text': 'now if you want about talk about', 'start': 979.48, 'duration': 3.12}
-{'text': 'assumptions look at Answers in Genesis', 'start': 980.32, 'duration': 4.41}
-{'text': "that's all they have and they will not", 'start': 982.6, 'duration': 4.44}
-{'text': 'question those science has to make', 'start': 984.73, 'duration': 4.5}
-{'text': 'assumptions but then test them you know', 'start': 987.04, 'duration': 3.9}
-{'text': 'when Lamarck comes up with his idea well', 'start': 989.23, 'duration': 3.12}
-{'text': "maybe that's a good idea thank you for", 'start': 990.94, 'duration': 2.58}
-{'text': "thinking that now let's test that", 'start': 992.35, 'duration': 3.12}
-{'text': "assumption nope doesn't work Darwin", 'start': 993.52, 'duration': 3.36}
-{'text': "comes up with one let's test that one", 'start': 995.47, 'duration': 3.6}
-{'text': 'hey that works over and over and over', 'start': 996.88, 'duration': 4.86}
-{'text': 'time again every possible test all the', 'start': 999.07, 'duration': 4.8}
-{'text': 'evidence we ever find everything always', 'start': 1001.74, 'duration': 5.07}
-{'text': 'only ever backs that up and we have an', 'start': 1003.87, 'duration': 4.92}
-{'text': 'artificial system like carolus linnaeus', 'start': 1006.81, 'duration': 4.2}
-{'text': "comes up with taxonomy and he doesn't", 'start': 1008.79, 'duration': 4.05}
-{'text': 'think that new species can evolve that', 'start': 1011.01, 'duration': 3.84}
-{'text': "he devises a system that doesn't allow", 'start': 1012.84, 'duration': 4.95}
-{'text': "for evolution and so when we know can't", 'start': 1014.85, 'duration': 5.52}
-{'text': 'prove that this does happen then we need', 'start': 1017.79, 'duration': 4.26}
-{'text': 'a system that can accommodate that fact', 'start': 1020.37, 'duration': 4.05}
-{'text': 'am I also right in thinking that the', 'start': 1022.05, 'duration': 5.49}
-{'text': 'rigid seven-layer system is kind of', 'start': 1024.42, 'duration': 4.56}
-{'text': "restrictive that it's better to have a", 'start': 1027.54, 'duration': 4.049}
-{'text': 'flexible number of groups is that yeah', 'start': 1028.98, 'duration': 3.87}
-{'text': "that's a very important point that you", 'start': 1031.589, 'duration': 3.151}
-{'text': 'bring up so it was realized early on', 'start': 1032.85, 'duration': 4.71}
-{'text': 'that there are way more classifications', 'start': 1034.74, 'duration': 4.74}
-{'text': 'within that than just the seven I mean', 'start': 1037.56, 'duration': 4.56}
-{'text': 'within human lineage alone we have at', 'start': 1039.48, 'duration': 7.08}
-{'text': 'least seven D not 770 well named clades', 'start': 1042.12, 'duration': 6.209}
-{'text': 'that we sit into and those are just the', 'start': 1046.56, 'duration': 3.12}
-{'text': "ones with names because there's quite a", 'start': 1048.329, 'duration': 2.941}
-{'text': "lot of them that don't have names we", 'start': 1049.68, 'duration': 4.02}
-{'text': 'just use names as like a signpost so', 'start': 1051.27, 'duration': 3.54}
-{'text': "that we don't get lost", 'start': 1053.7, 'duration': 4.38}
-{'text': 'hmm the Tree of Life is so enormous that', 'start': 1054.81, 'duration': 4.77}
-{'text': 'most people have no concept of how big', 'start': 1058.08, 'duration': 3.33}
-{'text': "it is it's almost like mapping synapses", 'start': 1059.58, 'duration': 3.75}
-{'text': "in the brain it's just really freaking", 'start': 1061.41, 'duration': 3.3}
-{'text': 'huge so when you think about just', 'start': 1063.33, 'duration': 3.09}
-{'text': "seventy named clades people we're trying", 'start': 1064.71, 'duration': 3.84}
-{'text': 'to add to that seven layer system to add', 'start': 1066.42, 'duration': 4.56}
-{'text': 'an info order or a sub order or', 'start': 1068.55, 'duration': 4.08}
-{'text': 'parvorder oh yeah just come up with all', 'start': 1070.98, 'duration': 2.67}
-{'text': 'these different names to subdivide', 'start': 1072.63, 'duration': 3.66}
-{'text': 'everything and until they realize why', 'start': 1073.65, 'duration': 4.59}
-{'text': 'are we doing this because what is an', 'start': 1076.29, 'duration': 3.96}
-{'text': "order on this level does isn't an order", 'start': 1078.24, 'duration': 3.18}
-{'text': 'on this level what is if you have the', 'start': 1080.25, 'duration': 3.24}
-{'text': 'families are not all even divisions', 'start': 1081.42, 'duration': 4.83}
-{'text': "right so realizing that let's just scrap", 'start': 1083.49, 'duration': 4.92}
-{'text': 'the whole system and we can keep some of', 'start': 1086.25, 'duration': 4.05}
-{'text': 'the names again as signposts so that', 'start': 1088.41, 'duration': 3.48}
-{'text': "people don't get lost that's the only", 'start': 1090.3, 'duration': 4.08}
-{'text': "adherence we'll have to thread it on and", 'start': 1091.89, 'duration': 5.4}
-{'text': "then beyond that we'll have clades and", 'start': 1094.38, 'duration': 4.41}
-{'text': 'the clades will represent everything', 'start': 1097.29, 'duration': 3.27}
-{'text': 'that descends from that just say what I', 'start': 1098.79, 'duration': 3.24}
-{'text': 'just said before you know you have DFO', 'start': 1100.56, 'duration': 3.54}
-{'text': 'but if a whale and a snake we both know', 'start': 1102.03, 'duration': 4.32}
-{'text': 'that their ancestors had legs we have', 'start': 1104.1, 'duration': 4.35}
-{'text': 'fossils for both that had legs', 'start': 1106.35, 'duration': 5.13}
-{'text': 'so those things remain tetrapods even if', 'start': 1108.45, 'duration': 3.84}
-{'text': "they don't have the physical", 'start': 1111.48, 'duration': 3.12}
-{'text': 'characteristics anymore their ancestry', 'start': 1112.29, 'duration': 4.44}
-{'text': 'demands that they be classified as', 'start': 1114.6, 'duration': 3.63}
-{'text': 'tetrapods and they will always be', 'start': 1116.73, 'duration': 3.27}
-{'text': 'tetrapods even if they never have legs', 'start': 1118.23, 'duration': 5.31}
-{'text': "again okay that we've used for since the", 'start': 1120.0, 'duration': 6.03}
-{'text': '1700s they said well these ranks are', 'start': 1123.54, 'duration': 4.44}
-{'text': 'ultimately human constructs and often', 'start': 1126.03, 'duration': 3.9}
-{'text': 'rely on subjective criteria which can', 'start': 1127.98, 'duration': 3.69}
-{'text': 'lead to confusion and instability and', 'start': 1129.93, 'duration': 3.72}
-{'text': "I'm like and the Philo code isn't", 'start': 1131.67, 'duration': 4.95}
-{'text': "exactly the final code isn't and there's", 'start': 1133.65, 'duration': 4.62}
-{'text': "a there's an illustration of this it's", 'start': 1136.62, 'duration': 3.51}
-{'text': 'quite beautiful they plugged three', 'start': 1138.27, 'duration': 4.44}
-{'text': 'thousand genomes into a computer system', 'start': 1140.13, 'duration': 5.07}
-{'text': "computer doesn't have any biases it", 'start': 1142.71, 'duration': 4.14}
-{'text': "doesn't have any religion it doesn't", 'start': 1145.2, 'duration': 4.92}
-{'text': "have any intent of design so there's not", 'start': 1146.85, 'duration': 5.28}
-{'text': 'going to be any arbitrary constructs it', 'start': 1150.12, 'duration': 3.99}
-{'text': 'is basically doing a genetic paternity', 'start': 1152.13, 'duration': 3.63}
-{'text': 'test on all of the genomes that it puts', 'start': 1154.11, 'duration': 3.3}
-{'text': "in so it's gonna file them all as to", 'start': 1155.76, 'duration': 3.93}
-{'text': 'what belongs in what subcategories what', 'start': 1157.41, 'duration': 4.23}
-{'text': 'what belongs at what parent categories', 'start': 1159.69, 'duration': 3.18}
-{'text': "and which one's belong closest together", 'start': 1161.64, 'duration': 3.81}
-{'text': 'so you feed three thousand genomes in', 'start': 1162.87, 'duration': 4.89}
-{'text': 'and it produces a tumbleweed', 'start': 1165.45, 'duration': 4.47}
-{'text': "of life the taxonomic tree that isn't", 'start': 1167.76, 'duration': 3.96}
-{'text': 'that vast circled which really does look', 'start': 1169.92, 'duration': 3.51}
-{'text': 'a bit like a tumbleweed but this was a', 'start': 1171.72, 'duration': 4.52}
-{'text': 'computer doing this so it is not', 'start': 1173.43, 'duration': 5.58}
-{'text': "arbitrary it's not by you know", 'start': 1176.24, 'duration': 5.26}
-{'text': 'assumptions these are the facts of the', 'start': 1179.01, 'duration': 4.68}
-{'text': 'data and even a computer will work that', 'start': 1181.5, 'duration': 3.93}
-{'text': 'out and a computer will work that out it', 'start': 1183.69, 'duration': 3.21}
-{'text': "doesn't have any choice in the matter", 'start': 1185.43, 'duration': 3.42}
-{'text': "it doesn't want to render it this way", 'start': 1186.9, 'duration': 6.03}
-{'text': 'this is the way it really is a change', 'start': 1188.85, 'duration': 5.76}
-{'text': 'evolutionary trees I would be a', 'start': 1192.93, 'duration': 3.99}
-{'text': 'millionaire on the other hand if my', 'start': 1194.61, 'duration': 3.99}
-{'text': 'income was based on the number of times', 'start': 1196.92, 'duration': 4.05}
-{'text': 'creationists incorporated new data into', 'start': 1198.6, 'duration': 4.53}
-{'text': "their models I'd be living in a box on a", 'start': 1200.97, 'duration': 4.6}
-{'text': 'sidewalk somewhere', 'start': 1203.13, 'duration': 4.39}
-{'text': 'they have had to change the evolutionary', 'start': 1205.57, 'duration': 3.69}
-{'text': 'tree a few times for the reasons that', 'start': 1207.52, 'duration': 3.15}
-{'text': "I've just given but everything she's", 'start': 1209.26, 'duration': 3.12}
-{'text': 'talking about leading to confusion and', 'start': 1210.67, 'duration': 3.78}
-{'text': 'all of that to tens of thousands of', 'start': 1212.38, 'duration': 3.78}
-{'text': 'Christian denominations violently', 'start': 1214.45, 'duration': 3.0}
-{'text': "conflicting with each other and that's", 'start': 1216.16, 'duration': 3.12}
-{'text': 'just one religion out of many and these', 'start': 1217.45, 'duration': 4.349}
-{'text': 'people are denying of all most of other', 'start': 1219.28, 'duration': 4.41}
-{'text': 'Christianity remember that there are', 'start': 1221.799, 'duration': 4.561}
-{'text': 'educated Christians Francis Crick and', 'start': 1223.69, 'duration': 4.95}
-{'text': 'Robert T Bakker and Kenneth Miller', 'start': 1226.36, 'duration': 4.02}
-{'text': 'Francis Collins of the director of the', 'start': 1228.64, 'duration': 3.24}
-{'text': 'Human Genome Project these are all', 'start': 1230.38, 'duration': 3.48}
-{'text': 'educated Christians who know and can', 'start': 1231.88, 'duration': 4.169}
-{'text': 'show the facts of the matter and how', 'start': 1233.86, 'duration': 4.199}
-{'text': 'that does not support the young Earth', 'start': 1236.049, 'duration': 3.51}
-{'text': 'Creationism nonsense but we know that', 'start': 1238.059, 'duration': 3.0}
-{'text': 'they know that right', 'start': 1239.559, 'duration': 3.36}
-{'text': 'Ken Ham has already come out and', 'start': 1241.059, 'duration': 3.421}
-{'text': 'admitted that he is seeing the evidence', 'start': 1242.919, 'duration': 4.201}
-{'text': 'he simply rejects it he knows that there', 'start': 1244.48, 'duration': 5.16}
-{'text': 'is evidence that dinosaurs had like', 'start': 1247.12, 'duration': 4.559}
-{'text': 'brain cancer and so forth he may be but', 'start': 1249.64, 'duration': 4.2}
-{'text': 'but how could that be if everything was', 'start': 1251.679, 'duration': 4.441}
-{'text': 'created good and he said many times he', 'start': 1253.84, 'duration': 4.469}
-{'text': 'describes it as God glasses but', 'start': 1256.12, 'duration': 3.51}
-{'text': 'psychologists refer to it as', 'start': 1258.309, 'duration': 3.661}
-{'text': 'confirmation bias where he simply', 'start': 1259.63, 'duration': 4.95}
-{'text': 'ignores all the evidence that is against', 'start': 1261.97, 'duration': 4.74}
-{'text': "him because he's gonna believe what he", 'start': 1264.58, 'duration': 4.08}
-{'text': 'wants to believe pretty much every', 'start': 1266.71, 'duration': 3.209}
-{'text': 'single show we have a few articles that', 'start': 1268.66, 'duration': 2.91}
-{'text': 'say evolution is rewritten by this', 'start': 1269.919, 'duration': 3.811}
-{'text': 'brand-new discovery it happens almost', 'start': 1271.57, 'duration': 7.109}
-{'text': 'every single time sadly blue shirt is', 'start': 1273.73, 'duration': 7.17}
-{'text': "right about that and I've criticized the", 'start': 1278.679, 'duration': 4.5}
-{'text': 'sensationalism of the media a number of', 'start': 1280.9, 'duration': 5.1}
-{'text': 'times in on stage and on video because', 'start': 1283.179, 'duration': 5.161}
-{'text': "it's true that every time we have a new", 'start': 1286.0, 'duration': 5.58}
-{'text': 'discovery that reaffirms the status quo', 'start': 1288.34, 'duration': 6.06}
-{'text': 'the reporter will always say that it', 'start': 1291.58, 'duration': 4.56}
-{'text': 'causes scientists to question their', 'start': 1294.4, 'duration': 4.56}
-{'text': 'theories and rewrites history very often', 'start': 1296.14, 'duration': 4.86}
-{'text': "they're exactly what we predicted and I", 'start': 1298.96, 'duration': 3.42}
-{'text': 'can think of a number of examples where', 'start': 1301.0, 'duration': 3.36}
-{'text': 'they what they found was predicted', 'start': 1302.38, 'duration': 4.89}
-{'text': 'decades earlier it exactly fit what we', 'start': 1304.36, 'duration': 4.8}
-{'text': "were already looking for didn't cause us", 'start': 1307.27, 'duration': 4.529}
-{'text': "to rewrite anything but you can't sell", 'start': 1309.16, 'duration': 3.48}
-{'text': 'newspapers', 'start': 1311.799, 'duration': 3.301}
-{'text': "if you don't sensationalize and so", 'start': 1312.64, 'duration': 4.14}
-{'text': "that's what the news reporters are doing", 'start': 1315.1, 'duration': 3.329}
-{'text': "that's why you don't ever want to get", 'start': 1316.78, 'duration': 4.11}
-{'text': 'your science from the mainstream media I', 'start': 1318.429, 'duration': 4.38}
-{'text': 'mean never write always look up the', 'start': 1320.89, 'duration': 3.63}
-{'text': 'original story in the peer-reviewed', 'start': 1322.809, 'duration': 3.391}
-{'text': 'articles because very often the', 'start': 1324.52, 'duration': 3.06}
-{'text': 'reporters will tell you that the study', 'start': 1326.2, 'duration': 2.58}
-{'text': 'says something the study does not', 'start': 1327.58, 'duration': 5.16}
-{'text': 'actually say about increased clarity and', 'start': 1328.78, 'duration': 5.55}
-{'text': "it's not going to change that much and", 'start': 1332.74, 'duration': 3.63}
-{'text': "I'm thinking do you understand", 'start': 1334.33, 'duration': 4.29}
-{'text': "like what what you're basing this off of", 'start': 1336.37, 'duration': 3.63}
-{'text': "are you I mean they have to be they've", 'start': 1338.62, 'duration': 2.79}
-{'text': 'been working on this for 20 years so', 'start': 1340.0, 'duration': 2.73}
-{'text': "certainly they're aware of it but I", 'start': 1341.41, 'duration': 2.46}
-{'text': "think it's just kind of sweeping it", 'start': 1342.73, 'duration': 3.51}
-{'text': 'under the rug so they can continue these', 'start': 1343.87, 'duration': 4.35}
-{'text': 'evolutionary ideas this is the person', 'start': 1346.24, 'duration': 4.59}
-{'text': "who's defending Barrowman ology talking", 'start': 1348.22, 'duration': 4.68}
-{'text': 'about how actual biologists using', 'start': 1350.83, 'duration': 3.27}
-{'text': 'genetic orthologs', 'start': 1352.9, 'duration': 4.26}
-{'text': 'are somehow sweeping talking snakes and', 'start': 1354.1, 'duration': 5.34}
-{'text': 'donkeys and magic spells and golems and', 'start': 1357.16, 'duration': 6.33}
-{'text': 'such under the rug really I looked up a', 'start': 1359.44, 'duration': 5.52}
-{'text': 'quote from Linnaeus about creation and', 'start': 1363.49, 'duration': 2.94}
-{'text': 'the order of things and Linnaeus said', 'start': 1364.96, 'duration': 3.42}
-{'text': 'this the earth creation is a glory of', 'start': 1366.43, 'duration': 3.84}
-{'text': 'God as seen from the works of nature by', 'start': 1368.38, 'duration': 3.66}
-{'text': 'man alone the study of nature would', 'start': 1370.27, 'duration': 3.51}
-{'text': "reveal the divine order of God's", 'start': 1372.04, 'duration': 4.47}
-{'text': 'creation oh that more scientists would', 'start': 1373.78, 'duration': 4.83}
-{'text': 'speak like that today except that this', 'start': 1376.51, 'duration': 5.82}
-{'text': "isn't 1735 we've learned things since", 'start': 1378.61, 'duration': 7.26}
-{'text': 'then why was the classification of pongo', 'start': 1382.33, 'duration': 6.599}
-{'text': 'created it was created to arbitrarily', 'start': 1385.87, 'duration': 5.25}
-{'text': 'divide chimpanzees gorillas and', 'start': 1388.929, 'duration': 4.081}
-{'text': 'orangutans from humans so they set up', 'start': 1391.12, 'duration': 4.74}
-{'text': 'and all of them except for us category', 'start': 1393.01, 'duration': 4.44}
-{'text': "that was what Pongo was and if you're", 'start': 1395.86, 'duration': 2.73}
-{'text': "going to admit that it's all of them", 'start': 1397.45, 'duration': 2.67}
-{'text': "except for us then that's a Freudian", 'start': 1398.59, 'duration': 3.27}
-{'text': 'admission that you already know we are', 'start': 1400.12, 'duration': 3.21}
-{'text': "part of that group and that you've just", 'start': 1401.86, 'duration': 3.75}
-{'text': 'set this up artificially so some twenty', 'start': 1403.33, 'duration': 5.01}
-{'text': 'years ago again the genome verifies we', 'start': 1405.61, 'duration': 4.08}
-{'text': 'are more closely related to chimpanzees', 'start': 1408.34, 'duration': 3.36}
-{'text': 'and gorillas collectively than they are', 'start': 1409.69, 'duration': 4.2}
-{'text': 'two orangutans and we are more closely', 'start': 1411.7, 'duration': 4.95}
-{'text': 'related to gorillas than gorillas are to', 'start': 1413.89, 'duration': 3.27}
-{'text': 'baboons', 'start': 1416.65, 'duration': 2.07}
-{'text': 'so we understand this genetically and', 'start': 1417.16, 'duration': 3.63}
-{'text': 'they knew a lot of that Thomas Huxley', 'start': 1418.72, 'duration': 5.91}
-{'text': 'was arguing that in the 1860s so we have', 'start': 1420.79, 'duration': 6.03}
-{'text': 'to go with what the information entails', 'start': 1424.63, 'duration': 4.65}
-{'text': 'Answers in Genesis has to go with the', 'start': 1426.82, 'duration': 4.53}
-{'text': 'fairy tale regardless of the evidence', 'start': 1429.28, 'duration': 3.57}
-{'text': "and we know that that's the case because", 'start': 1431.35, 'duration': 3.209}
-{'text': "Answers in Genesis hasn't made in their", 'start': 1432.85, 'duration': 4.32}
-{'text': 'statement of faith that no amount of', 'start': 1434.559, 'duration': 5.521}
-{'text': 'evidence of any kind from any field can', 'start': 1437.17, 'duration': 5.37}
-{'text': 'ever be accepted if it contradicts the', 'start': 1440.08, 'duration': 4.5}
-{'text': 'fairy tale and when when they have', 'start': 1442.54, 'duration': 3.3}
-{'text': 'scientists with it because they do hire', 'start': 1444.58, 'duration': 3.36}
-{'text': 'actual scientists to work there but the', 'start': 1445.84, 'duration': 4.41}
-{'text': 'scientists have to sign they have to', 'start': 1447.94, 'duration': 4.17}
-{'text': 'reaffirm that same oath and that they', 'start': 1450.25, 'duration': 4.44}
-{'text': 'will support the fable of biblical', 'start': 1452.11, 'duration': 5.55}
-{'text': 'literalism regardless what the facts are', 'start': 1454.69, 'duration': 5.28}
-{'text': 'no matter what they can never concede', 'start': 1457.66, 'duration': 5.58}
-{'text': 'that Genesis got anything wrong ever it', 'start': 1459.97, 'duration': 4.709}
-{'text': "doesn't matter how often it gets things", 'start': 1463.24, 'duration': 3.15}
-{'text': "wrong it doesn't matter how egregiously", 'start': 1464.679, 'duration': 2.821}
-{'text': "it gets this wrong it doesn't matter how", 'start': 1466.39, 'duration': 3.389}
-{'text': 'kantak the error is they can never', 'start': 1467.5, 'duration': 4.679}
-{'text': 'admit it it is the most dishonest', 'start': 1469.779, 'duration': 4.291}
-{'text': 'position that is possible to have except', 'start': 1472.179, 'duration': 3.06}
-{'text': 'for the fact that they are admitting', 'start': 1474.07, 'duration': 2.729}
-{'text': "that they will never admit when they're", 'start': 1475.239, 'duration': 1.8}
-{'text': 'wrong', 'start': 1476.799, 'duration': 1.92}
-{'text': 'though they are wrong they just never', 'start': 1477.039, 'duration': 2.97}
-{'text': "won't ever admit it and they admit to", 'start': 1478.719, 'duration': 3.51}
-{'text': "filling with that or that they won't", 'start': 1480.009, 'duration': 4.62}
-{'text': 'admit that okay all right', 'start': 1482.229, 'duration': 4.83}
-{'text': 'did life emerge in the primordial soup', 'start': 1484.629, 'duration': 5.61}
-{'text': 'via DNA or RNA a surprising answer here', 'start': 1487.059, 'duration': 11.18}
-{'text': 'you go Brian from new research Ryan yeah', 'start': 1490.239, 'duration': 9.99}
-{'text': "evolution don't like to deal with origin", 'start': 1498.239, 'duration': 3.16}
-{'text': "of life issues they'd rather deal with", 'start': 1500.229, 'duration': 3.12}
-{'text': "what happened after that okay they don't", 'start': 1501.399, 'duration': 3.78}
-{'text': 'typically even deal with this well since', 'start': 1503.349, 'duration': 3.841}
-{'text': 'the scientific field of biological', 'start': 1505.179, 'duration': 5.31}
-{'text': 'evolution is a subset of biology those', 'start': 1507.19, 'duration': 5.609}
-{'text': 'you would call evolutionists are really', 'start': 1510.489, 'duration': 4.831}
-{'text': 'biologists now origin of life research', 'start': 1512.799, 'duration': 5.55}
-{'text': 'is more the domain of chemistry or some', 'start': 1515.32, 'duration': 5.309}
-{'text': "overlap with biochemistry but it's an", 'start': 1518.349, 'duration': 4.17}
-{'text': 'entirely different field different', 'start': 1520.629, 'duration': 4.35}
-{'text': 'specialty a different discipline George', 'start': 1522.519, 'duration': 4.65}
-{'text': "is complaining that biologists aren't", 'start': 1524.979, 'duration': 4.38}
-{'text': 'typically doing chemistry a critique', 'start': 1527.169, 'duration': 3.93}
-{'text': 'like complaining that Shakespeare', 'start': 1529.359, 'duration': 3.54}
-{'text': "typically didn't make his own ink or", 'start': 1531.099, 'duration': 3.87}
-{'text': "paper or that chefs typically don't", 'start': 1532.899, 'duration': 4.35}
-{'text': 'smelt their own pans or the few', 'start': 1534.969, 'duration': 3.991}
-{'text': 'professional baseball players stitch', 'start': 1537.249, 'duration': 5.22}
-{'text': "their own gloves they're related but", 'start': 1538.96, 'duration': 5.549}
-{'text': "they're not they just because it's hard", 'start': 1542.469, 'duration': 3.721}
-{'text': "they don't know and and there's no way", 'start': 1544.509, 'duration': 3.24}
-{'text': 'to explain how life comes from non-life', 'start': 1546.19, 'duration': 3.659}
-{'text': 'because in a biological sense life', 'start': 1547.749, 'duration': 3.66}
-{'text': 'always comes from life either they law', 'start': 1549.849, 'duration': 4.351}
-{'text': 'the law of biogenesis so basically you', 'start': 1551.409, 'duration': 4.32}
-{'text': 'have to go against my laws that life', 'start': 1554.2, 'duration': 4.349}
-{'text': 'comes from life is not a law it was a', 'start': 1555.729, 'duration': 4.351}
-{'text': 'law and creationists often', 'start': 1558.549, 'duration': 2.67}
-{'text': 'misrepresented they call it the', 'start': 1560.08, 'duration': 2.49}
-{'text': 'biogenetic law but actually the', 'start': 1561.219, 'duration': 2.79}
-{'text': 'biogenetic law was the law of', 'start': 1562.57, 'duration': 3.779}
-{'text': 'recapitulation that ernst haeckel came', 'start': 1564.009, 'duration': 4.38}
-{'text': 'up with but the idea that life comes', 'start': 1566.349, 'duration': 3.81}
-{'text': 'from life actually came from rudolf', 'start': 1568.389, 'duration': 3.99}
-{'text': 'virchow who was a pioneer geneticist and', 'start': 1570.159, 'duration': 3.93}
-{'text': 'he initially said he did he did once', 'start': 1572.379, 'duration': 3.12}
-{'text': 'upon a time say that life comes from', 'start': 1574.089, 'duration': 4.14}
-{'text': 'life and also he said that cells come', 'start': 1575.499, 'duration': 5.52}
-{'text': 'from cells and he was forced to say that', 'start': 1578.229, 'duration': 5.37}
-{'text': "diseas'd cells come from diseased cells", 'start': 1581.019, 'duration': 4.83}
-{'text': "but then he realized there's a paradox", 'start': 1583.599, 'duration': 5.25}
-{'text': 'there that at some point a diseased cell', 'start': 1585.849, 'duration': 5.76}
-{'text': 'had to come from a healthy cell that you', 'start': 1588.849, 'duration': 4.65}
-{'text': "didn't just have diseased girls coming", 'start': 1591.609, 'duration': 3.48}
-{'text': 'from diseased cells so there had to be', 'start': 1593.499, 'duration': 3.571}
-{'text': 'another catalyst that had a way for a', 'start': 1595.089, 'duration': 4.83}
-{'text': 'healthy cell to become diseased so he', 'start': 1597.07, 'duration': 5.699}
-{'text': 'refuted his own law and that caused him', 'start': 1599.919, 'duration': 3.571}
-{'text': 'to', 'start': 1602.769, 'duration': 2.881}
-{'text': 'consider his previous stipulation that', 'start': 1603.49, 'duration': 5.7}
-{'text': 'life comes from life so he undid his own', 'start': 1605.65, 'duration': 6.21}
-{'text': 'law when he invented the concept of', 'start': 1609.19, 'duration': 6.45}
-{'text': 'abiogenesis he then changed it the law', 'start': 1611.86, 'duration': 7.23}
-{'text': 'is now that life comes from a prior', 'start': 1615.64, 'duration': 5.97}
-{'text': "matrix that's what Rudolf Virchow said", 'start': 1619.09, 'duration': 5.49}
-{'text': 'the very guy who made the law that life', 'start': 1621.61, 'duration': 5.22}
-{'text': 'comes from life changed it revised it', 'start': 1624.58, 'duration': 4.41}
-{'text': 'and made a new law life comes from a', 'start': 1626.83, 'duration': 4.77}
-{'text': 'prior metrics and Thomas Huxley coined', 'start': 1628.99, 'duration': 5.22}
-{'text': 'the name of that as abiogenesis a few', 'start': 1631.6, 'duration': 5.61}
-{'text': "years later it's so infinitely complex", 'start': 1634.21, 'duration': 4.95}
-{'text': 'how you get how you do that I mean it', 'start': 1637.21, 'duration': 3.69}
-{'text': 'sounds easy when you hear it but being a', 'start': 1639.16, 'duration': 3.26}
-{'text': 'geneticist and knowing how that works', 'start': 1640.9, 'duration': 3.93}
-{'text': "it's very very compact it's true that we", 'start': 1642.42, 'duration': 4.21}
-{'text': "don't know as much about abiogenesis as", 'start': 1644.83, 'duration': 3.33}
-{'text': 'we do about evolution because we can', 'start': 1646.63, 'duration': 3.57}
-{'text': 'prove all kinds of stuff about evolution', 'start': 1648.16, 'duration': 3.45}
-{'text': "and there's only a couple dozen", 'start': 1650.2, 'duration': 3.479}
-{'text': 'experiments that we have that we can', 'start': 1651.61, 'duration': 4.89}
-{'text': 'show abiogenesis position so of course', 'start': 1653.679, 'duration': 4.441}
-{'text': 'we want to focus on the things that we', 'start': 1656.5, 'duration': 4.23}
-{'text': 'can prove to be true that they still', 'start': 1658.12, 'duration': 4.71}
-{'text': 'deny and so why do they want to talk', 'start': 1660.73, 'duration': 4.5}
-{'text': 'only about abiogenesis and only about', 'start': 1662.83, 'duration': 4.29}
-{'text': 'Big Bang cosmology because they have to', 'start': 1665.23, 'duration': 3.9}
-{'text': "push things all the way back if we can't", 'start': 1667.12, 'duration': 3.84}
-{'text': 'understand every detail right now that', 'start': 1669.13, 'duration': 3.24}
-{'text': "means we won't understand it in a", 'start': 1670.96, 'duration': 2.94}
-{'text': "hundred years there's a whole lot we", 'start': 1672.37, 'duration': 2.97}
-{'text': "didn't understand a hundred years ago", 'start': 1673.9, 'duration': 3.12}
-{'text': 'that we have answered that they will', 'start': 1675.34, 'duration': 5.339}
-{'text': 'never admit as if how the universe began', 'start': 1677.02, 'duration': 7.05}
-{'text': 'or or how life began had any impact over', 'start': 1680.679, 'duration': 6.0}
-{'text': 'the fact that humans are a subset of', 'start': 1684.07, 'duration': 4.5}
-{'text': 'Apes and that evolution is still', 'start': 1686.679, 'duration': 4.771}
-{'text': 'directly observable and confirmable even', 'start': 1688.57, 'duration': 4.59}
-{'text': "under controlled conditions they don't", 'start': 1691.45, 'duration': 3.63}
-{'text': 'want to talk about that so they want to', 'start': 1693.16, 'duration': 3.81}
-{'text': 'go back to wherever the god of the gaps', 'start': 1695.08, 'duration': 3.42}
-{'text': "is wherever they think there's a safe", 'start': 1696.97, 'duration': 3.42}
-{'text': "place in wherever science can't explain", 'start': 1698.5, 'duration': 3.66}
-{'text': 'because they want to pretend which is', 'start': 1700.39, 'duration': 3.57}
-{'text': "another falsehood and it's a logical", 'start': 1702.16, 'duration': 3.33}
-{'text': 'fallacy too they want to pretend that', 'start': 1703.96, 'duration': 3.57}
-{'text': "whatever science can't answer is somehow", 'start': 1705.49, 'duration': 3.81}
-{'text': 'evidence for their magic imaginary', 'start': 1707.53, 'duration': 3.42}
-{'text': "friend it's sort of a chicken which came", 'start': 1709.3, 'duration': 3.42}
-{'text': 'first the chicken or the egg okay now', 'start': 1710.95, 'duration': 3.12}
-{'text': "obviously it's craziness the chicken", 'start': 1712.72, 'duration': 2.76}
-{'text': 'came first okay because the chicken was', 'start': 1714.07, 'duration': 2.73}
-{'text': 'created on day five with all the other', 'start': 1715.48, 'duration': 2.85}
-{'text': 'flying creatures and then eggs came out', 'start': 1716.8, 'duration': 4.44}
-{'text': "thing about creationism it's a form of", 'start': 1718.33, 'duration': 4.65}
-{'text': 'religious extremism but it just just', 'start': 1721.24, 'duration': 3.51}
-{'text': 'takes the worse of Christianity and', 'start': 1722.98, 'duration': 3.69}
-{'text': "turns it up to 11 it's all about", 'start': 1724.75, 'duration': 5.309}
-{'text': "absolving responsibility you don't have", 'start': 1726.67, 'duration': 5.94}
-{'text': 'to actually do anything to make', 'start': 1730.059, 'duration': 4.021}
-{'text': "reparations for the things you've done", 'start': 1732.61, 'duration': 3.31}
-{'text': "wrong you just pretend that you're magic", 'start': 1734.08, 'duration': 4.09}
-{'text': 'your friend has forgiven you and then', 'start': 1735.92, 'duration': 3.75}
-{'text': "they don't have to be responsible for", 'start': 1738.17, 'duration': 2.88}
-{'text': 'the environment either because it', 'start': 1739.67, 'duration': 3.42}
-{'text': "doesn't matter how many more souls we", 'start': 1741.05, 'duration': 3.33}
-{'text': "bring unto the Lord it doesn't matter", 'start': 1743.09, 'duration': 2.94}
-{'text': "that you can't feed all your kids", 'start': 1744.38, 'duration': 4.92}
-{'text': 'because Jesus is gonna return any minute', 'start': 1746.03, 'duration': 6.81}
-{'text': "now to save us from ourselves and he's", 'start': 1749.3, 'duration': 5.19}
-{'text': 'gonna roast the planet anyway and', 'start': 1752.84, 'duration': 4.02}
-{'text': "they're not able to think hypothetically", 'start': 1754.49, 'duration': 4.17}
-{'text': 'they asked me all the time what if', 'start': 1756.86, 'duration': 3.75}
-{'text': "you're wrong but when I say okay well", 'start': 1758.66, 'duration': 3.87}
-{'text': "then then Jesus would show up and we'd", 'start': 1760.61, 'duration': 3.21}
-{'text': "have a pristine world where everybody's", 'start': 1762.53, 'duration': 3.12}
-{'text': 'happy and he would waste that for no', 'start': 1763.82, 'duration': 3.09}
-{'text': "reason but what if you're wrong and then", 'start': 1765.65, 'duration': 3.42}
-{'text': "the only answer is I'm not wrong yeah", 'start': 1766.91, 'duration': 6.51}
-{'text': 'you are a goober but the problem is you', 'start': 1769.07, 'duration': 6.24}
-{'text': "can't even think hypothetically because", 'start': 1773.42, 'duration': 4.29}
-{'text': 'you have to believe in a lie and it is a', 'start': 1775.31, 'duration': 5.07}
-{'text': 'lie when you state as fact baseless', 'start': 1777.71, 'duration': 4.08}
-{'text': 'assertions that are unsupported by', 'start': 1780.38, 'duration': 3.72}
-{'text': "evidence that's a lie just like when you", 'start': 1781.79, 'duration': 4.2}
-{'text': 'pretended to know things that no one', 'start': 1784.1, 'duration': 3.33}
-{'text': 'even can know well I know for a fact', 'start': 1785.99, 'duration': 3.45}
-{'text': "that God exists but no you don't because", 'start': 1787.43, 'duration': 3.09}
-{'text': 'knowledge is demonstrable with', 'start': 1789.44, 'duration': 2.73}
-{'text': 'measurable accuracy you can show what', 'start': 1790.52, 'duration': 3.66}
-{'text': "you know we can test it but if you can't", 'start': 1792.17, 'duration': 3.84}
-{'text': 'verify the accuracy of your claims to', 'start': 1794.18, 'duration': 3.45}
-{'text': 'any degree at all by any means', 'start': 1796.01, 'duration': 4.23}
-{'text': "whatsoever then you don't actually know", 'start': 1797.63, 'duration': 4.56}
-{'text': 'that you only think you do', 'start': 1800.24, 'duration': 4.32}
-{'text': "that's only what you believe and when I", 'start': 1802.19, 'duration': 4.35}
-{'text': 'say believe and they say believe it', 'start': 1804.56, 'duration': 3.15}
-{'text': "means something different I don't even", 'start': 1806.54, 'duration': 2.91}
-{'text': "use the word anymore I'll say I don't", 'start': 1807.71, 'duration': 3.78}
-{'text': "think that's the case because it was", 'start': 1809.45, 'duration': 3.78}
-{'text': 'that you know what I believe is what I', 'start': 1811.49, 'duration': 3.63}
-{'text': "think is most likely true we're closest", 'start': 1813.23, 'duration': 3.63}
-{'text': 'to the truth because I tried out to work', 'start': 1815.12, 'duration': 3.45}
-{'text': 'in absolutes but when they say believe', 'start': 1816.86, 'duration': 5.22}
-{'text': "they mean make believe it's what they", 'start': 1818.57, 'duration': 5.13}
-{'text': "pretend that's what this is all about", 'start': 1822.08, 'duration': 3.87}
-{'text': "and that's why they have apologetics", 'start': 1823.7, 'duration': 3.96}
-{'text': 'which is systematically making up', 'start': 1825.95, 'duration': 3.87}
-{'text': 'excuses to rationalize or justify or', 'start': 1827.66, 'duration': 3.9}
-{'text': 'dismiss any and all evidence against', 'start': 1829.82, 'duration': 3.27}
-{'text': "their preferred position that's what", 'start': 1831.56, 'duration': 3.39}
-{'text': "apologetics is and it's one of the", 'start': 1833.09, 'duration': 3.39}
-{'text': 'things that makes faith the most', 'start': 1834.95, 'duration': 3.15}
-{'text': 'dishonest position it is possible to', 'start': 1836.48, 'duration': 3.27}
-{'text': 'have well that sounds like a perfect', 'start': 1838.1, 'duration': 3.6}
-{'text': 'place to end it thank you so much for', 'start': 1839.75, 'duration': 4.02}
-{'text': 'stopping by urn how are all things in', 'start': 1841.7, 'duration': 3.81}
-{'text': 'your merry world things are all right', 'start': 1843.77, 'duration': 3.51}
-{'text': 'where I live things are starting to open', 'start': 1845.51, 'duration': 3.99}
-{'text': "up a little faster than I'm personally", 'start': 1847.28, 'duration': 4.08}
-{'text': "comfortable with I'm a little scared to", 'start': 1849.5, 'duration': 4.95}
-{'text': 'these 2nd and 3rd waves oh yeah seems to', 'start': 1851.36, 'duration': 5.04}
-{'text': 'be religious organizations like Answers', 'start': 1854.45, 'duration': 3.96}
-{'text': 'in Genesis so the forefront of pushing', 'start': 1856.4, 'duration': 3.69}
-{'text': 'these floodgates open yeah I mean not', 'start': 1858.41, 'duration': 5.07}
-{'text': 'here in Texas of course yep you know the', 'start': 1860.09, 'duration': 7.16}
-{'text': 'the American Alberta yeah', 'start': 1863.48, 'duration': 3.77}
-{'text': "yeah it's it's much the same thing", 'start': 1868.0, 'duration': 4.24}
-{'text': 'can I have to make predictions in the', 'start': 1870.919, 'duration': 2.851}
-{'text': "world we're in now but hopefully we're", 'start': 1872.24, 'duration': 2.7}
-{'text': 'paving the way to be down there for', 'start': 1873.77, 'duration': 3.389}
-{'text': "faithless form 2021 we'll hit some more", 'start': 1874.94, 'duration': 7.349}
-{'text': "barbecue places you're buying yeah like", 'start': 1877.159, 'duration': 6.9}
-{'text': 'that if for some reason you not already', 'start': 1882.289, 'duration': 3.781}
-{'text': 'subscribed to iron rods YouTube channel', 'start': 1884.059, 'duration': 3.72}
-{'text': 'you should definitely fix that', 'start': 1886.07, 'duration': 3.66}
-{'text': "immediately as he's been doing an", 'start': 1887.779, 'duration': 4.171}
-{'text': 'amazing job recently of advancing', 'start': 1889.73, 'duration': 3.87}
-{'text': 'biology education on many fronts', 'start': 1891.95, 'duration': 3.9}
-{'text': "including philosophy he's not just", 'start': 1893.6, 'duration': 4.29}
-{'text': 'addressing creation claims and if you', 'start': 1895.85, 'duration': 4.23}
-{'text': 'are already subscribed perhaps consider', 'start': 1897.89, 'duration': 4.08}
-{'text': "becoming an iron raw patron as he's a", 'start': 1900.08, 'duration': 4.589}
-{'text': "full-time advocate and educator and it's", 'start': 1901.97, 'duration': 4.559}
-{'text': 'been a tricky year for support', 'start': 1904.669, 'duration': 4.441}
-{'text': 'speaking of which thank you so much to', 'start': 1906.529, 'duration': 4.831}
-{'text': 'my patrons without whom my work on this', 'start': 1909.11, 'duration': 4.38}
-{'text': 'channel would not be possible thank you', 'start': 1911.36, 'duration': 4.169}
-{'text': "so much for watching and since you're", 'start': 1913.49, 'duration': 4.02}
-{'text': 'still here the video on the screen is a', 'start': 1915.529, 'duration': 3.51}
-{'text': 'pretty great choice of what to watch', 'start': 1917.51, 'duration': 2.039}
-{'text': 'next', 'start': 1919.039, 'duration': 2.49}
-{'text': "give it a tap and I'll see you over", 'start': 1919.549, 'duration': 4.591}
-{'text': 'there it makes people really irritate', 'start': 1921.529, 'duration': 5.011}
-{'text': 'the [ __ ] out of me really', 'start': 1924.14, 'duration': 6.429}
-{'text': '[Laughter]', 'start': 1926.54, 'duration': 4.029}
+E aí
+[Música]
+E aí galera que eu fiz estamos aqui com
+mais um vídeo e hoje pessoal estou de
+volta aqui com a nossa série eu vou
+espera falar o nome do episódio animal
+eu tô aqui sem serviço
+fazer de novo velho que eu coloquei sem
+querer hoje galera que ninguém Jesus
+todas aqui com mais um vídeo e hoje
+pessoal estamos de volta aqui com essa
+série você não sabe o quanto é difícil
+fazer essa aí tem que fazer de novo Viu
+pensa voz e você vai acabar automática
+aí é o seguinte galera também tira esse
+episódio
+329
+agora caramba Ai era agora gata
+[Música]
+a
+coparticipação dele da viseira da
+quebrada Fala aí da Visão auxiliar de
+fogo-de-artifício achei que tu tinha
+morrido velho
+oh da hora parece que é em frente
+especial
+nossa mano fica muito da hora mesmo
+velho eu acho que não pouquinho né
+machucou a boca né mas faz parte jogo
+gato longe ali eu vi em você
+o coitado do gatinho pede desculpa e
+olha isso tá até começando de noite aqui
+mano porque agora no Minecraft tá muito
+mais da hora passar as 2 não está
+nascendo mais move aqui porque já tem um
+pouco de iluminação e como eu disse para
+vocês agora precisa de zero de
+iluminação para os novos daquele velho
+daí essa iluminação Zinho que a gente já
+tem aqui é o suficiente nada a ver para
+ver um homem atacar gente é mano algum
+dia a gente nem tinha que fazer uma
+batalha estilo Harry Potter Olha só
+pegar a besta aqui vai ser ele tem mata
+primeiro outro no final Mas sendo você
+vai ganhar de mim mano ninguém entende
+mais de besta do que você tá ó quem fala
+né eu tenho aula com essas piadas aí
+fica aí
+galera como vocês viram pelo início do
+vídeo aí a gente tá de hidro nova na
+real isso ele nem é uma intro isso é um
+vídeo muito legal que postaram na net aí
+o mano FL Car eu acho que assim que
+pronuncia app Lica acho que é também
+oito é EP um up no look em inglês né
+mamãe esse cara desenho demais ele fez
+os personagens da casa automática e as
+áreas tenha com Kid Jungle fria fazendo
+negócio Fazendinha bom bonitinha velho
+Mano eu fiquei apaixonado além do
+desenho seu lindo demais tinha tanto
+detalhe de coisa da casa automática
+velho na moral muito talento sim mano
+bom alegar Muito obrigado velho ficou
+incrível isso eu vou usar que com
+certeza em algumas partes passei lá por
+favor galera isso é só um pedacinho do
+vídeo que ele fez tem um vídeo completo
+lá com outras coisas também outras cenas
+eu vou deixar o link aí na descrição
+passei lá dei um like e se inscreva no
+canal dele para agradecer né com certeza
+galera não esqueça de fazer isso e eu
+comentei aqui de novo Faz um para mim
+também por favor
+toda vez tá usando aqui o espaço aqui
+para ficar mendigando rapaz desculpa
+desculpa então não faz para mim não não
+precisa fazer brigar lá para ele fala
+para ele para deixar que o mendigo que
+você é
+e olha só o naipe nosso galera todo nos
+traz aqui roupa de banho a gente
+trabalhar um pouco aqui no oceano velho
+e cara a gente tá aqui nesse lugar
+porque aconteceu uma coisa muito longe
+só me dá esse presente aí velho
+aconteceu muito louco aqui galera que eu
+esqueci de mostrar para vocês eu vou
+contratar levar alguma coisa que dente
+aí manda aí igual uma corrente atualizou
+aqui tá 1.18 a gente resolveu deletar
+alguns acham que isso aqui velho olha só
+essa parte aqui perto da mob trap era
+muito feia galera vou tentar mostrar
+para vocês aqui ó para quem não assistiu
+o episódio
+ou desce Presidente aí em troca aí mesmo
+cara é isso aí
+e olha só como ela Galera Era muito feio
+era todo cortado aqui o litoral E agora
+mano qual 1.18 a gente deletou dois
+tinham que se conseguiu fazer essa
+transição aí que ficou bem melhor né
+velho legal Vinícius Mas será que esse
+presidente aí tem que acha que é isso aí
+galera dela é para assistir o que se eu
+esqueci de uma coisinha velha não moral
+mesmo que eu acabei deletando uma parte
+do mapa que não deveria velho ou tu
+pediu level isso aí fique La Mancha aqui
+é o tridente velho agora quatro dentes
+[Música]
+aí você tenha muito da hora tá ligado
+Você lembra daquele lance quando a gente
+tá com ele lá para lojão depois ele vem
+se
+[Risadas]
+eu soubesse que era para isso é dia de
+dropado antes pô tem que ver na minha
+nem fala negócio mais legal do Minecraft
+tá ligado para mim aí velho eu nunca fiz
+isso aqui é já ainda deu pô Ah tá deixa
+eu ver aqui ó gata
+e
+olha só galera é só se jogar para longe
+Então passa o inventário aqui porque ele
+tem que voltar para sua mão aí como o
+teu espaço dele aqui ele fica voando
+aqui ao redor da cabeça da gente até
+mais da hora quando você sai correndo
+assim ele vai conseguir vai você pode
+até voar Vinícius Tenta aí rapaz só que
+se eu vou aqui você pegar metade para
+conseguir se não ele entra no inventário
+minhas até dia dividiu estou detectar a
+presença do mal e
+o olá o bicho não impediu a
+o
+pior que eu não tenho que você tá me
+seguindo parece a vassoura da bruxa tá
+ligado é bruxaria isso não só pode
+como que o Minecraft poderia corrigir
+esse bug Eu também tem como né Só se ele
+não deixasse sair do inventário que da
+Barra não não corrigir isso não galera
+pelo amor manda a hora que eu te dar na
+hora mesmo e galera vou pelo assunto
+mano e o deletei 2 chances que não
+deviam cara e ficam bem aqui da Visão ó
+na Atlântida Olha só não é aqui dentro
+da Atlântida terão que se fosse aqui
+dentro dela ia chorar muito porque não é
+pra qualquer parte dessa cultura aqui
+mano é muito trabalhoso quer fazer tá
+ligado um problema da visão fica aqui ó
+vem comigo
+[Música]
+e olha só está aqui no túnel galera
+açúcar velocidade aqui muito muito
+rápido
+a mil por hora e bota a cabeça aqui é
+isso paredados do vendendo aí na moral
+aí eu tô tô mandando velho tá aqui ó
+outro lado ver
+[Música]
+e conta comigo dois três
+quatro um dois três quatro cinco seis
+sete oito
+[Música]
+eu contei errado ou dois da 31
+mas basicamente galera são dois chão
+certinho casa tinha tem 16 eu escolhi
+dois shanks e aí tá faltando aqui no
+túnel né velho cara e o pior que na hora
+a gente falou isso né da visão
+E se tiver alguma coisa construir ele
+vai dela tá com sono mas vou voltar o
+shampoo para original galera então a
+gente não pode fazer isso em áreas se
+tem alguma coisa né inclusive é se vocês
+quiserem fazer isso aí no mapa de vocês
+é comente faça o backup Pode ser que
+isso é dela é que alguma coisa que você
+não queira em né vai testando que esse
+negócio é perigoso velho já tá bem
+obrigado a
+Ah mas então galera nós que foram os
+besta e não fez o backup esqueceu desses
+túnel lá na mão Evelyn são Espero que
+não tenha nenhum golfinho aqui no meio
+Porquê tadinho dele né mano é mesmo eu
+coloquei com fios eu acho que de 50 e 50
+cara tomara que não tenha nenhum no meio
+aí você colocou um desse lado é
+tranquilo então pô
+é da Visão acabei de conferir ali mano
+eu acho que não tinha golfinho nessa
+área ainda bem porque eu vou fio mais
+próximo tá aqui e é mais do que 50 bloco
+de distância um do outro ou suave não é
+a sorte sua velho na moral forte demais
+você vai dar trabalho arrumar aqui mas
+se precisar do golfinho era pior muito
+mais trabalhoso
+Como já acabei a porção de rede dois
+irem então de novo é
+[Música]
+e
+é agora começar a colocar os blocos
+nadadeira eu trouxe vejo a hora alguns
+jukebox você puder me ajudar eu lembro
+quando eu fiz aqui eu coloquei primeiro
+esse depois eu vim coloca os detalhes
+não vão fazer do mesmo jeito velho mas
+se faz favor aqui ó
+[Música]
+E aí
+[Música]
+tô
+terminando aqui de fazer a decoração
+agora só falta encher de água da viseira
+eu acho que não vou fazer a Farm de água
+maquininha de água aqui só para isso
+então faz aquela velha até que eu já tô
+com a terra aqui eu acho que vai dar
+certo só subir aqui da Visão vamos ver o
+certo é dessa altura aqui enche de água
+ali para cima tá ligado quero ver velho
+mas para gente entrar ali é põe de pé o
+perfil que tem que colocando a senha do
+meu tipo de baixo doido coloca assim ó
+técnica tipo
+aqui é com a mãe desligou tu Já devia
+conhecer essa técnica aqui né E esse
+negócio isso que bagunçou meu perfil do
+tridente precisa lá e se não funciona
+[Música]
+Olha já quase não fofa assim é de boa
+o cabelo pegou gelo peguei colocar
+daquele jeito assim ó
+e vem lá pelo pela ponta vem quebrando
+da vendas vacilando aí eu tinha
+esquecido disso antes de abrir a terra
+aqui a gente tem que tirar essa bolinha
+para água escorrer aqui nessas laterais
+senão não escolhe Lisa velho a gente
+refaz depois de coraçãozinho aí ó
+tá
+[Música]
+tudo cheio de água e agora senhora a
+gente pode colocar de água vai ficar
+continuar escorrendo e
+E aí
+[Música]
+e agora cultura da Atlântida ficou
+pronto mano fiquei com vontade David
+testo passa aquele bulli ele funciona em
+hacker Olha só cinco pode
+ah não agora sim bora
+Você parou de funcionar e eu dormir
+escrevedeira do caramba
+Tomara que eles do que tira isso né que
+é muito da hora
+Eita pega perdi um pouquinho vou ficou
+para trás já era problema de nadar em pé
+isso a galera jeito que você perde o
+golfinho o golfinho tá ali na frente
+agora peguei lá ó
+E para isso aqui é mais rápido que o
+carro de Fórmula 1 parado aqui
+Eu acho que eu perdi o tridente Vinícius
+com você aí doido ó aqui velho só para
+fazer um teste vamos ver que hora que o
+tridente chega chegando
+então da Visão chegou cadê seu tridente
+tá atrasado véio tu acha que ele
+descarregou o tio tio velho federalista
+descarregou tinha que certeza Davi Cadê
+o seu tridente
+dando devagarzinho que achar
+aqui
+galera vem sábado mano pai desnaturado
+mãe deixou para trás pô véi tô me
+sentindo Quando minha mãe perdeu nos
+supermercados ou até agora o Davi eu
+acho que esse vídeo ficou muito longe
+velho é mano não pode porque que ela não
+apareceu ou eu fiz Onde você tá mano
+pior que isso aqui é muito longe mesmo
+se caminhando a gente vai levar uns 10
+minutos é oi oi oi ai YouTube lá beber
+ele tava por aqui
+perdeu tadinha como que ele ficou feliz
+aqui visão sim velho tá faltando um
+monte de boa nem sabia que prendendo
+respirar Oxe
+[Música]
+e olha só galera Chegamos aqui um
+projeto da área 51 já estamos aqui com
+Nova Roupa de novo Olha já trocando de
+roupa duas vezes eu tô cansando velho
+com a Claudineia coitada que lava as
+roupas vai xingar Calma vou dar um
+aumento o 13º e da viver é o seguinte
+tiver a gente tá aqui na área 51 mano
+para quem tá ligado esse projeto aqui tá
+dando um trabalhão galera a gente
+quebrou a área de 300 por 300 até a
+medrox ou onde era a vedró quiser Thiago
+agora é o ponto 18 adicionou mais 64
+Blocos para baixo até chegar a Bedrock
+então isso aqui tudo era ela galera aí
+foi transformada essa dose A Maldita a
+remissão para você que tava achando que
+tava quase no final do projeto os caras
+tá praticamente na metade de novo você
+vai ter que ficar laudo começou de novo
+galera olha só mano inclusive Leite
+passou a máquina mais uma vez aqui no
+episódio da 1.18 e deixou ele desse
+jeito vai Ficou quase plano né inclusive
+até descobriu novas cavernas aqui ó da
+Visão Vem cá você velho tem uma
+caveirinha da 1.18 aqui embaixo ó olha
+que coisa da hora galera e essa é grande
+hein Caraca isso é bom hein já ajuda na
+hora de explodir aqui não precisa
+explodir essas cavernas Preciso pedir
+muito bloco aí que da visão e olha desse
+outro lado o que que eu achei aqui velho
+que que é a emissão eu tinha visto isso
+velho eu acho que loucura e aí tipo a
+gente Ele deu sorte que só quebrou aqui
+o teto quebrou só o topinho e não
+quebrou ali uma história mas esse aqui
+na quebrada não tem como proteger isso
+aqui na web não protege nesse coloca
+aqui obsidian todos os lados não porque
+aí quando foi explodir eu não quero vai
+ficar filezona de pedra até lá embaixo
+ué na fez e eu vou quebrar aqui logo não
+não quero agora também deixa a pena te
+quebrar Então resumindo é o seguinte
+galera agora na 1.18 tudo que era
+Bedrock e virou a dose e aumentou mais
+64 blocos lá para baixo velho que
+acontece e se projetar a ficou tinha um
+precisa de uma área 100% limpa sem
+nenhum história de Moby velho como
+aumentou mais um monte de caverna para
+baixo a gente tem que conseguir destruir
+até o final para esse ente usar essa
+área aqui para as novas formas de
+experiências mirabolante mirabolante São
+Paulo engraçada
+mas quebrar isso é fácil velho porque a
+gente usa aquela máquina voadora A gente
+desce ela mais ela quebra o resto o
+problema são essas larvas velho a lava
+ela Neffa a explosão então onde tem lava
+não vai quebrar nada e que essa lava não
+era um problema quando abre a troca na
+camada 0 mas agora é um problema porque
+vai impedir que eu quebro e tudo lá para
+baixo da camada zero é Nossa é verdade
+velho Mano eu nem ia tirar essa lava
+velho agora vou ter que tirar E se eu
+quisesse seguir aqui com esse projeto né
+velho e o pior de tudo missão aqui
+dentro dessas larvas provavelmente deve
+ter um monte de blocos a linha cara eu
+vou tomar aqui uma poção de resistência
+ao fogo e olha só que acontece galera
+aqui dentro não é só lava velho isso
+aqui é cheio de pedra ó vou conseguir
+ficar na posição aqui da vida que dá
+para ver as pedras Então não é
+simplesmente chegar com a máquina e
+limpar isso aqui tudo velho porque a
+máquina ela vai parar aí no meio desse
+tanto de bloco né não tem jeito se fosse
+fácil igual Secar um oceano era só
+queria um Moisés automático gigante
+igual a gente fez com a culpa que seja
+fácil de limpar toda essa lava aqui né
+caraca velho você tá ferrado Vinícius ao
+tanque de lavar que tem isso mano olha
+só Gaia pode fazer uma maquininha aqui
+vamos ter para secar uma linha de lava
+aqui só para ver se funciona a visão
+beleza a máquina de slime bem simples
+aqui mano eu nem vou posicionar ela
+certinho não fica que já dá caramba
+nisso o Isaac mano o Whats Como assim
+velho tridente também pega fogo
+agora você ganhou um pet velho não tem
+minha cabeça pelo menos isso né que é da
+Visão Coxinha o Fantasminha Camarada que
+da hora velho como é possível é o trem o
+trem dentro da água né a maquininha bem
+simplesinha da Visão você quer subir
+aqui para ligar para gente Opa para já
+vou deixar aqui olha só colocar um botão
+na frente desse observador aqui ó vou
+posicionar aqui para gente ver essa
+máquina secando toda essa lavar galera é
+incrível funcionamento dela Olha vai lá
+uma
+vagabundo ali cara ali ó não gosta do
+vídeo da casa automática querendo
+atrapalhar agora no sítio do canal pera
+aí pera aí que eu tô passar tá vendo
+aqui vai aparecer mais E aí velho pode
+ir então pode vai ó um foi que é isso Tá
+ligado Olha só essa essa maquininha vai
+passar e vai secar tudo velho tá
+incrível E olha que maravilha galera
+passando secando lá valeu
+uau vai da visão
+[Música]
+eu vou tá indo
+para ali tá ligado que não achou o bloco
+ainda
+será que ela vai conseguir destruir aqui
+ó
+[Música]
+e destruiu também realmente galera fosse
+esperar
+ué essa fez a máquina achando que ele ia
+quebrar o porque se tiver um bloco ela
+para você não tem tipo quero ver aquele
+dia eu coloco a lei deu sorte lá olha só
+galera ela vai funcionar agora agora vai
+fazer vai quebrar pronto quebrou mano
+Vale atrás eu tirei um ação sorte
+depende da perspectiva toda a visão Olha
+só então se eu quebrar aqui um pouco
+diminuir o tamanho da máquina Eu também
+automaticamente vou conseguir carregar
+mais blocos com ela né que tem o peso de
+12 blocos mas antes então agora a gente
+pode ligar de novo que agora como ela tá
+menor mesmo se ela grudar em alguns
+blocos ela vai conseguir continuar né
+mas também vai ter um limite que é doce
+Olha só ali ela deve tá conversando
+pegar alguns blocos velho Deixa eu ver
+vamos pegar o mesmo hein pegou já pegou
+o senhor é e aí ela consegue continuar
+né porque o peso dela ainda tá menos que
+12
+Resumindo essa MA o som o teste porque
+vai chegar uma hora que ela vai pegar
+muitos blocos e não vai conseguir
+avançar nele e olha só galera fiz um
+segundo modelo aqui esse é o modelo um
+pouco melhor do que aquele que a gente
+fez nesse ele tem uns pistões a mais ali
+e esse inscrições vão conseguir empurrar
+pedras Se tiverem na frente da Visão
+liga de novo daquele mesmo lado não não
+não é desse
+E aí vamos ver como é que vai ser o
+funcionamento dessa daí velho beleza
+contagem regressiva 3 já foi Note que
+nesse aqui agora a gente colocou
+observadores aqui atrás que a medida que
+ele vai mexendo aquele pessoas já frente
+vão mexendo também então se tiver pedra
+escondida ali ó ele vai sair empurrando
+não tinha pedra nesse que ainda será que
+vai ser pedra nesse meio aqui ó
+tá parecendo que não olha só ele tá
+passando um lugar que tem bastante lá
+velho deve tem uma pedra aí no meio mano
+olha só já vem empurrando aí eu
+plataforma da visão e até Redentor é o
+clone trazendo responde para a gente
+velho de da hora uma você achou tá fazer
+uma máquina dessa família responder Acho
+que compensa em
+[Música]
+Resumindo galera essa máquina aqui ela
+funciona bem nas primeiras camadas velho
+se ela funcionasse bem em todas as
+camadas da lava era só gente fazer uma
+mega máquina dessa gigantona até embaixo
+Vamos ver sim com 10 pistões ali de
+altura tente conseguir passar aqui limpa
+tu
+sabe disso é capaz ela não vai funcionar
+galera o que que o centro aqui desse
+miolo velho tem mais do que 12 blocos de
+largura velho pode entrar aqui ó tá
+vendo bloco até aqui da visão e olha a
+largura disso né e vamos brincar 30
+blocos aí o mais uns 40 ela não vai
+conseguir empurrar isso aí velho tem a
+gente vai ser complicado em
+voces Então galera eu sou meio teimoso e
+acabei de fazer uma coisinha aqui velho
+olha isso caramba essa grande em
+da Visão mesmo sabendo que a máquina não
+funciona velho eu resolvi tirar o tema e
+criei uma mega máquina gigante que tira
+lava velho Mano do céu o tamanho disso
+daqui comparado com a outra a condição
+parece que a outra tá pequenininha pegou
+sete cogumelo do Mario com meu de uma
+vez ou desse tamanho aqui o gigante está
+ligado faz sentido e galera essa máquina
+só é possível porque o mel não gruda no
+slime ciclo da se velha Impossível fazer
+desse tamanho então compacta assim né E
+deve ser eu vou até ligar aqui ó parente
+vela funcionando coloquei aqui chavinha
+ali atrás já tá ligando e é o seguinte
+galera qualquer bloco que a gente
+colocar aqui na frente ó Claro que ele
+pode assim aqueles que vai querer ou não
+sei também não opaco isso em
+qualquer coisa que aparecer aqui na
+frente galera ela vai conseguir empurrar
+mano
+e o que cada pistão desse consegue
+empurrar 12 blocos dá para fazer um
+quadrado gigante que ela vai conseguir
+empurrar Olha aí ao tamanho do bloco 12
+por 12 por 12 da Visão Será que empurra
+mesmo velho parece que não né confia
+caramba empurra tomate é doida velho
+olha isso velho
+e o Renault Mega Block
+Caraca velho então foi assim que fizeram
+a pirâmide do Egito
+exatamente Girls cá do Egito conhecia
+mexer com Redstone e construiu a
+pirâmide jeito levando blocão para o
+botão
+caramba é galera tudo faz sentido agora
+galera gente tá fazendo uma simulação
+aqui para ver se ela funciona para secar
+lavar né aí que viu que ela empurra um
+bloco de 12 por 12 gigantes vamos ver se
+ela consegue secar essa lava aqui embora
+para aí mano Liga lá para a gente fazer
+no caso galera esse aqui é uma simulação
+da lado aqui é bem parecida com a que
+tem largas automática que tem pedras
+dentro então ela vem passando Ó e vem
+empurrando toda a pedra que tem dentro e
+moro parece até mágica velha lava some
+fica solo isso aqui na frente era isso
+parece que uma pa recolhendo o bicho
+mesmo velho te mar Da hora demais
+E aí galera vocês viram que funciona né
+velho seca muito bem porém galera agora
+a gente vai fazer um novo teste só que
+com uma leve alteração velho eu vou
+adicionar uma pedra da visão a mais no
+meio dessas pedras aqui ó vai ficar bem
+aqui a pedra ó ó
+coloquei uma pedra até mudou ali uma
+pedra no caminho ao pedra no caminho
+será que vai atrapalhar essa máquina ela
+vai aguentar velho mana essa máquina é
+tão grande tão forte acho que não vai
+dar nada não hein vai lá vão lá ligar
+E ai que beleza é arriscando tranquilo
+empurrando tudo só que já quebrou de uma
+pedra mais dá me dá o porquê que ela não
+aguentou velho Caramba era que tipo uma
+fileira cumprida e já é o suficiente
+para estragar a máquina inteiro início e
+ela quebra muito feio agora isso é
+impossível reformar essa máquina de
+gente tem que quebrar tudo e refazer de
+novo nossa dor de cabeça em resumindo é
+uma máquina muito da hora mas só
+funciona em casos muito específicos
+velho
+ou da Visão quer ver uma esfregue Wesley
+quero sim né porque a gente fica olhando
+para lá se eu vou lá buscar para você
+fica aí no olha para trás não é sério
+não não vou olhar não F5 não validam a
+blusa fita Espera aí ó
+galera negócio da hora
+tem que se achar bonito
+Deixa eu ligar isso aqui
+e eu acho que vai funcionar
+e aciona você tá vindo para cá não né
+que eu não tô não pera aí que eu tô
+chegando aí a outra viver Fala aí pode
+virar pode vir agora de manhã pode
+ei ei
+velho esse tag aqui essa massa ver quero
+um para mim também tá deixa eu
+tô melhor agora direito aqui de você né
+já que era uma surpresa eu fiz eu caras
+nesse com muito da hora Vinícius do céu
+mano negócio doido né velho porque tipo
+a gente consegue encontrar tanto os
+blocos que dá para gente burra
+construções cara é só e claro respeitar
+algumas regras que você não pode deixar
+esse buraco aqui sem nada galera a gente
+tem respeito algumas coisas presença tá
+manter aqui meu microfone no lugar eu
+coloquei dois blocos aqui ó que se o
+microfone começar vem para trás né e eu
+tipo quebrar aqui ó desse jeito Eu sei
+disso véi que era aí aqui ó por exemplo
+essa parte aqui como ela é rápida ela
+movimenta então eu posso colocar aqui
+tudo aqui atrás parece que não tem nada
+mas na real é pior ficar aqui né E essa
+parte do topete eu nem lembrava que
+tapete podia ser empurrado velho pensei
+que a Branch ele pode ser empurrado se
+tiver um bloco em baixo a faz sentir Ah
+entendi por exemplo se a gente tentar
+empurrar ele um lugar um buraco Aí ele
+quebra né mas enquanto eu tiver bloco
+embaixo ele sempre vai ser empurrado
+nossa demais agora a próxima vez tem que
+fazer empurra na casa automática e tá
+spoiler é da Visão constrói lá no
+plástico e depois estrela cadente vai
+passar toda a noite na frente lá da casa
+da sua Opa é para já vou fazer assim eu
+tô vendo que você tá fazendo aí parado
+não fala isso não deve tá vendo nada não
+Então agora não é
+o
+Vagabundo velho
+meu Deus um baú cabou comigo tem terra
+dentro da cabeça tá ligando é voltamos
+aqui para 51 ainda sem solução né
+aquelas máquinas não funciona muito bem
+para secar lavar mas da viseira e eu
+tenho outra máquina essa chamada de
+carta da manga ué máquina na manga eu
+gosto de manga mano umas coisas dentro
+da manga é muito bom não vai dormir
+você vai comer uma manga aí tem uma
+carta dentro o quê que foi inventou isso
+mesmo pelo menos entendi tava com o
+bagulho fértil para falar a cabeça aqui
+leva de manga com carta e comer mas que
+eu tava dizendo a visão a gente não vai
+precisar tirar tudo isso na mão na no
+Balde tem uma maquininha inclusive ela
+tá aqui ó vai desmontada aqui dentro ó
+eu tô dele tem outra forma
+caramba essa eu quero ouvir olha o tanto
+de pistão galera volta de observador
+quase 10 pack de cada velho foi uma hora
+só para catar essas paradas e aqui tá
+parecendo que eu vou é cozinhar cozinhar
+tudo aqui eu usei um negócio mas depois
+vai nesses gols aqui eu não tô
+entendendo é nada só avisar não é para
+entender mesmo não é veio aqui vou
+começar a construir essa parada aqui
+depois eu explico a galera como ela
+funciona velho beleza então né eu já até
+peguei aqui ó a gente vai começar com a
+Fornalha mente marcar aqui um lugar onde
+ela vai ficar inclusive tá chovendo só
+aqui que todo de 0 a 10 que é o Rio né o
+bem que essa chuva podia secar lavar é
+molhar o velho faz uma máquina para
+molhar essas a lava aí pô depois você
+vai quebrar obsidia me ajudar a vir aqui
+quebrar depois 30 mil vizinho ou é
+porque quem nunca virando obsidian de
+onde está chovendo né Beleza diz que vai
+ver isso aí galera agora é hora de
+começar a construir essa máquina né Bora
+lá namorar ou Oi Oi Oi
+E aí
+E aí
+[Música]
+[Música]
+E aí olha só a máquina que a gente fez
+aqui galera cara gigante da Visão uma
+máquina que tem 300 blocos de tamanho
+que você acha velho Nossa velho tô
+impressionado e eu quero ver mesmo esse
+negócio funcionando porque caramba ou
+também disse não consigo nem ver do
+outro lado direito a pontinha Olha só dá
+para ver que a gente tá aqui com a
+entrevistas no máximo e não não daria
+nem para ver o final da máquina velho é
+gigantona e galera essa máquina aqui é
+diferente de todas as outras que eu
+mostrei pra vocês essa daqui ela
+trabalha com pistão virado para baixo
+então quando ela tiver passando aqui ó
+além de secar a lava que tá no nível
+aqui do pistão aqui não sei se dá para
+perceber direito mas esse pistão ele vai
+entrar dentro daquela lá o pistão também
+ele vai ficar mexendo porque eu tenho
+esse observador virado para cima então
+ele vai ficar mexendo então ele vai
+secar 2 níveis de altura dessa área
+inteira da Visão caramba vai é coisa
+demais né olha isso tanta depois que eu
+tenho para limpar no início do céu cara
+vai ser sofreres aqui da vida inclusive
+uma lente pode até ligar ela um
+pedacinho delas e deixa eu ver qual que
+eu ligo eu tô com medo dessa ponta aqui
+ela vai grudar em algum bloco aqui da
+visão eu vou ligar só isso aqui ó tem
+como ligar separadamente cada pedaço o
+legais aqui ó olha só ela vai empurrando
+e aquele pistão ele de baixo ele vai
+também acionando né A medida que mexe
+cara ele vai entrar na lava Liga lá
+para máquina entrar besta causa que
+acontece galera ela entra ali dentro da
+lava e também aciona o pistão então ele
+seca dois blocos de altura aquele pistão
+ele é o pistão com slime então e também
+Puxa um bloco para cima da vida vamos
+ver se aqui vai ter um bloco você tiver
+um bloco aqui eu puxo para cima
+é aqui não tinha um bloco mas ele deixou
+retinho ali ó essa máquina também serve
+para pavimentar lava né deixa retinha né
+a visão Equilibrista trazer a máquina
+aqui para gente eu acho que aqui deve
+ter bloco velho não deve ter fonte ele
+se ó puxou dois blocos para cima galera
+isso é interessante porque depois a
+gente precisa quebrar esses blocos Ou
+doidão sabe aqui ó ela puxou mais um
+pouco de bloco ali também e no final eu
+fiz uma um ponto final ali uma linha de
+chegada e é para elas pararem né não tá
+certo e depois desses blocos aqui a
+gente tem que tirar na mão como que é
+espera aí vamos ligar a máquina inteira
+Depois eu explico o pessoal que que ele
+vai fazer com esses blocos no caso
+galera gente consegue mandar uma máquina
+por vezes é igual vocês viram aí mas o
+esquema é ligar todas de uma vez da
+viseira uma certeza vai vir a maior
+bagunça eu acho que deve dar muito LED
+mas a ideia liga tudo de uma vez ó eu
+vou até começar a fazer isso logo porque
+cara vai ter muito trabalho aqui pela
+frente para ligar elas galera eu fiz
+manualmente mesmo porque a gente vai
+precisar de ser essa máquina depois
+então não adianta eu colocar opção aqui
+para acionar tudo de uma vez sendo que
+depois vou ter que quebrar né Caraca que
+da hora ouvindo isso daí um botão para
+ativar para você ver não não pera aí
+pera aí eu tô achando que não vou ligar
+tudo tudo de uma vez não porque senão a
+galera não vai conseguir nem ver que que
+tá acontecendo aqui vai dar muito leve
+já tá largado para caramba aqui ó
+a luta de marca ela tá deixando umas um
+fantasma atrás galera
+Essa visão aqui é da hora coisas
+passando ali aperta ali puxando os
+bloquinhos para cima mano concurso da
+afa e eu acho que o leque maior aqui não
+é nem as máquinas mexendo o leque maior
+é a lava escorrendo cara como ela Tira
+lava do Topo muda um pouco a estrutura
+ali e acaba escorrendo um pouco mais de
+lava só e aí ferra muito tá muito leque
+foi velho Inclusive é o da Visão
+criativa é a não fique
+aqui acho que vai ser interessante ela
+tem bastante lava essa parte vai ser
+interessante velho e
+E aí
+o tanto de coisa que foi joguinho e
+oh caraca isso aqui foi interessante que
+a maioria das fontes da Lavra tudo no
+topo Nossa secou tudo né velho que da
+hora galera olha isso aí velho isso aí ó
+um ponto positivo é a diminuir a água do
+mapa Graças a Deus que massa velho
+agora que a garota já viu como funciona
+a viseira eu vou ligar todas essas
+máquinas de uma vez velho porque o mais
+sentido vai conseguir mostrar nada elas
+vão funcionar Tá ligado não Verdade mano
+se você for pensar bem O Observador é
+tipo uma carinha né decisão Com certeza
+sobrancelha e que eu tô fazendo aqui
+jogando pedra na cabeça dela falando vai
+com esse ele tem um rosto atrás é
+bonitinha mesmo né E tá pega quando fica
+piscando
+agora nunca mais eu vou pensar em outra
+coisa dele para quem
+é Inclusive a gente tem que ficar um
+pouco mais para cada viu porque como lá
+é muito grande então tem que estar
+sempre carregando todos os tanques vai
+vai sentindo vai ver ela funcionando
+direito mas a gente tem que tá aqui
+carregando
+[Música]
+e
+olha só larga tanto Davi que a máquina
+passou aqui não mostra que passou a
+gente só vai ver isso depois que ela
+chegar e parar lá do outro lado eu achei
+é brincadeira tá tudo travado né velho
+não conseguiu calcular ainda que que tá
+acontecendo não
+[Música]
+o e pronto daí Vera passamos a primeira
+vez a máquina velho rafame ali o topete
+da lava vamos vamos ver o resultado aqui
+olha só todos esses blocos que ficaram
+aí altos deve a gente vai ter que
+quebrar agora né porque quando a gente
+for passar de novo a máquina mais baixa
+essas aqui eles não podem atrapalhar eu
+vou tomar uma poção aqui velho porque o
+esquema é isso a mesma lava e quebrando
+Ah entendi nossa velho então tipo assim
+a máquina Ainda ajuda bastante só que a
+gente ainda vai ter esse trabalho de
+quebrar todos os blocos tá ligado fica
+bem atento para não deixar nenhum para
+trás vem aqui é exatamente se não tava
+máquina o legal aqui que essa máquina
+que eu fiz ela pode travar porque ela
+individual né Cada máquina trabalha
+sozinha então se travar alguma marca
+você vai lá só quebra botar na frente
+dela e bota ela para falar de novo não
+tem segredo nenhum a é velho tem razão
+por isso que eu tive que fazer esse
+modelo diferente aí vai não mas ficou da
+hora hein tecnológico toda vez se eu
+tivesse feito uma técnica para esconder
+essa máquina dentro da montanha velho eu
+poderia ligar a máquina lá de cima que
+explode né E aí evitar a gente tem que
+ficar quebrando manual aqui ca é tão
+verdade velho não é velho só que cair
+mais letras ficavam Buracão ali dentro
+para encaixar certinho dentro da
+montanha dos dois lados é só de ter que
+cavar esse buraco Aí eu acho que o
+trabalho já talvez em compensa É
+exatamente a
+[Música]
+e pode jogar a 5 minutinhos tiramos.
+Aqueles blogs que estavam levantados
+agora eu posso mandar a máquina de volta
+velho porque a gente vai precisar
+abaixar ela da visão ela ficou aqui dois
+níveis de lava aí vai abaixar ela mais
+dois votos para baixo para passar de
+novo pé é um processo muito louco
+Primeiro vou mandar lá para outro lado
+né porque vai ser mais fácil para gente
+fazer isso essa essa pobre na casa aqui
+ó ela não ela não fica mais nada da
+Visão Ela só volta mesmo
+E ai que bagunça tiver é como a gente
+ligou todas as máquinas eu apago não
+explica né mas eu acho que chegou toda
+sem segurança né que foi foi beleza
+galera olha só todas as maquininhas de
+volta para casa assim que eu tô fazendo
+propaganda para o filme do homem-aranha
+né Não lembro e da Visão o seguinte
+agora ele vai começar um processo para
+baixar ela mano e é bem complicado esse
+processo a primeira coisa que eu tenho
+que fazer é pegar todos esses aqui que
+tem o mel e jogar para frente aí de cima
+só joguei um para frente eu tenho que
+sair da mesma linha dos slides é que na
+hora de abaixar ela precisa baixar e não
+tocar aqui nos observadores porque senão
+Cola e aí buga tudo então ó eu vou em
+todos que tem mel ou pode ser também nos
+slime mas eu escolhi de meio aqui ó e da
+Visão ao mesmo tempo velho eu queria que
+você viesse fazer outra coisa certo como
+que é tirando todos os observadores aqui
+ó porque na hora de abaixar se os
+observadores ficarem eles vão mexer e a
+máquina vai bugar então eles têm que
+sair também
+e eu vou perder alguns esses que cai na
+lava não tem jeito ainda bem que daqui
+para frente tem pouca lava só tem essas
+duas aqui então a gente só descer depois
+de coletar né Vamos inverter os papel
+vai vai negócio nos Amarelo lá eu vou
+quebrando a
+[Aplausos]
+[Música]
+e
+olha sogra a gente tirou todos os
+observadores empurramos todos os blocos
+de mel para frente e eu adicionei esses
+dois pistões aqui em cima que vai ajudar
+na hora de descer essa máquina velho
+inclusive o que eu tô fazendo aqui uma
+maquininha uma outra máquina para poder
+empurrar essa para baixo aqui no meu
+grande hoje precisa de duas máquina é
+uma máquina para outra máquina cara esse
+vídeo Desculpa mano se tiver ficando
+muito técnico Mas é muita doideira Isso
+aqui que tá acontecendo é máquina que
+Empurra a vaca não eu tô entendendo aqui
+acompanhando mas ao mesmo tempo não tô
+entendendo é nada missão muita coisa eu
+vou ligar ela aqui depois vocês ver como
+é que ela funciona galera é só se eu
+botar aqui ó inclusive já jantou aí dá
+pedrada na cara desse observado hoje que
+ele vai ligar e aí a medida que não liga
+agora ver que que vai acontecer Olha só
+ele vai andando aquele questões que eu
+fui adicionando ali eles vão Acionar e
+vão Enviar maquininha para baixo velho
+depois passa outra opção atrás que joga
+o pistão que ficou para trás para baixo
+também é doideira que quanto isso desse
+outro lado olha essa que a outra parte
+da máquina ela também manda para baixo
+essa outra não é
+a resolver eu consigo abaixar o nível de
+altura com essa outra maquininha ainda
+Ferrara e é doida demais porque tipo
+assim você tem que fazer outra máquina
+para não ter que reconstruir tudo que
+você fez tá ligado exatamente velho esse
+processo de abaixar máquina que deve
+durar uns 15 minutinhos mas quebrar essa
+máquina inteira e reconstruir ela dois
+blocos para baixo ia demorar umas quatro
+horas velho então é um processo e que
+vale muito a pena velho demais e é muito
+doido vai lá funcionando não é
+[Música]
+é o funcionamento dela é muito da hora
+velho e como a gente tirou todos os
+observadores que tinham aqui ele não vai
+bugar mais
+[Música]
+e
+olha só agora conseguimos a baixar tudo
+a máquina já tá voltando aqui para o
+lugar no caso ela baixou o nível sobra
+Davi então o esquina velho é uma chá de
+novo então gente vai ter que abaixar
+essa máquina ôxe foi que careca com
+aquilo foi sua voz que meu meu
+Deus galera que você não vai fazer uma
+máquina para construir essa máquina de
+abaixar mais para que deixa eu tentar
+mais essa máquina aqui mesmo Olha só
+para dar baixar ela bem mais simples
+preciso uma máquina não é só
+dois capítulos e abaixo alta definição
+como que vai ser a máquina para empurrar
+essa máquina de abaixar máquina que
+fizeram a gente coloca o aumento pelo
+amor de Deus chega de mais mão nesse tá
+doido da cabeça pirou é agora sim mas
+não pode ligar de novo aí para baixar
+mais uma vez aqui velho Nossa Nossa essa
+máquina tá descendo tanto que tá quase
+naquela música Desce sobe empina e
+rebola já foi mandei
+muito ruim o maior gostei pior que esse
+vídeo a palavra abaixo já deve tá em
+alta em bastante toda hora baixar eu
+achava chama pessoas pé galera
+terminamos aqui e já deixamos no jeito
+para passar a máquina mais uma vez velho
+agora ela tá dois níveis abaixo a vida
+lava então se eu ligar a televisão já
+vai começar a secar mais um pouco em
+pode começar pode ligar aí mano então
+bora lá vou ligar que um umas máquinas a
+gente já viu isso aqui galera processo é
+o mesmo se a gente deixou algum bloco
+por aí algumas máquinas vão parar mas eu
+acho que nós quebrou tudo direitinho
+Aquela hora eu acho que dessa vez vai
+tem mais bloco ainda para puxar né não
+tá mais estão na superfície Enquanto
+Mais ela Baixa ela vai puxando mais box
+é um
+[Música]
+E
+aí
+[Música]
+estão de blog tá puxando a linda viu
+aquele daqui eu fui basta tanquinho
+[Música]
+Beleza ainda visão Deus e cada boa aqui
+velho aqui foi mesmo Vinícius caramba
+mana e quanto mais você descer mais pré
+da você vai ver em sim galera esse é o
+resultado da máquina ter passado pela
+segunda vez mano já começou aparecer em
+aos topos das montanhas Sinhá desse lado
+aqui da Visão dá para ver ó é um dos
+lugares que tinha mais lava já tá cheio
+de pedra aparecendo velho tô feliz
+demais que tá acabando hein Olha só isso
+aqui da Visão começou a aparecer ele
+velho geodo de Ametista Mano eu tô vendo
+isso velho Caramba as ideias Caraca
+depois Oi tudo bem vai ver um mega geodo
+de Ametista aí e a lava nem quebra os
+cristais Então aí tá tudo intacto é cara
+já tá dando a motivação aqui velho eu
+acho que se eu passar a máquina aí mais
+umas duas ou três vezes deve sacar tudo
+né Davi Acho que sim Vini são ainda mais
+que você passou agora está vendo essas
+Colinas gigante de pedra mas que logo
+logo vai diminuir quantidade de lavo
+hein Olha só a gente tá aqui na altura 7
+EA Pedroca que ela mais ou menos umas
+cinco né aqui aqui ela é troca cinco
+exatamente cinco Então eu acho que passa
+mais uma vez só vai ficar as larvas que
+ficava dentro da Metrópole só que você
+quiser dizer eu vou colocar uns bicos
+aqui para ajudar a gente Dessa vez ficou
+bastante pedra aí né gente vai ter
+quebrar muita coisa e cara eu só vou
+voltar com o vídeo agora se esse lugar
+que fica retinho mano retinho tá doido
+velho e cozinhe Agora eu vou começar a
+trabalhar aqui me desejem sorte deixe o
+like no vídeo aí se você tiver curtindo
+por favor mano tá dando muito trabalho
+de fazer esse vídeo só para planejar
+essas máquinas eu gastei mais de 20
+horas galera foi muita coisa que eu tive
+que testar e deixa aquele like se
+inscreva no canal aí para não perder
+mais loucura sem velho Olá galera da
+visão eu tô Charme camarada ali tá
+pedindo para deixar o like mas aí galera
+vamos lá arrumou na massa aqui e vamos
+conversar trabalhar essa parada aí Davi
+Bora lá tá pera aí eu vou lá vou escalar
+o pico um
+[Música]
+E aí
+[Aplausos]
+E aí
+E aí
+E aí
+E aí
+[Música]
+E aí
+[Música]
+[Música]
+[Música]
+E aí
+E aí
+E aí
+[Música]
+E aí
+[Música]
+e não é para olhar o que doido Não é
+para olhar ali para o buraco Davi cara
+você vai se surpreender que que eu fiz
+aí eu sou maluco posso olhar o
+funcionário não bastava só terça é cada
+lá Valeu galera eu resolvi fazer um trem
+mais doido aí viu que foi quebrar todas
+as Pedrinhas qualquer Pedrinha que tinha
+e tampar os buracos Davi vem aqui só
+para você ver velho esse daqui foi foi
+meu melhor plano aí que bota uma livro
+Olha isso Davi deu vontade até de trocar
+os blocos de tufo ali para o bloco de
+ardósia também só que eu não tinha bloco
+suficiente era muita coisa
+caramba velho parece realmente o mundo
+super plano com uma barreira Mano eu não
+sei nem escrever direito você tem um
+piso tem a soleira ali ó mais escuro que
+hora que lugar Olha eu sabia que eu
+gostava de planificar as coisas mais
+cara desse nível aqui eu acho que foi eu
+me superei ainda vida uma hora ou você
+deve utilizar essa parte aqui do mapa
+para fazer o super é de Redstone igual
+você fazia antigamente Mano eu pensei
+nisso velho já pensou o lugar e para
+fazer tutoriais só que cara um outro
+trabalha dessa da Visão para usar só
+para isso velho me tem razão e concentre
+olha só essa esse bloco aqui ele é o
+mesmo desse só que eu tampei o buraco
+ele de lá daí ele fica em outro formato
+a Camille vai escolher outras vão vir
+aqui comigo onde eu coloquei esses
+Pedregulho de ardósia Velho você sabe
+onde é que era gay a Isa que era o geodo
+é exatamente
+chuveiro bem no G ovo
+Olha só esse G outro aqui velho ele tá
+por metade eu não sei se faz bomba Que
+destruiu ele eu não tô lembrado de que
+aconteceu eu acho que é aberto joga ele
+teve divulgado é porque daqui para a
+senhora ver oque é né é não deve ter
+gerado realmente ele inteiro não você
+quer mês de Ouro Velho
+a previsão cê tá preparado é não sei não
+Vinícius aqui para isso
+e
+[Música]
+ainda tá de tarde
+E aí
+e quando chegar meia-noite você vai ver
+o
+[Música]
+E aí é o esperou na esticar mesmo assim
+começou já
+início tanto né
+Davi do céu essa área que velho desse
+jeito fica muito sinistra mano
+demais velho como pode olha o tanto de
+diz que aparece aqui galera e o Flamengo
+Você caminha que ele não chega em lugar
+nenhum velho
+O
+que é
+E aí
+E aí
+[Música]
+E aí
+E aí
+E aí
+é
+muito bom
+E aí
+E aí
+galera é assim que a gente vai
+finalizando esse vídeo nesse clima
+Sombrio aqui dessa área do vazio Por
+rimou
+muito obrigado a todo mundo que
+acompanhou esse episódio até aqui foi o
+episódio bem intensa a gente conseguiu
+fazer muita coisa Espero de coração
+mesmo que vocês tenham gostado deixe um
+comentário dizendo que vocês acharam meu
+Deus da Visão Muito obrigado valeu e até
+o próximo vídeo fui para o que é um bar
+né aumentar esse gráfico aqui tá rolando
+aqui na hora de novo
